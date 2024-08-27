@@ -1,6 +1,6 @@
 # behavioral-interview
 
-# 1. Questions
+# Questions
 
 - [1. Questions](#1-questions)
   - [1.1. Q1: Tell me about a time when you had to manage a team to meet tight deadlines across multiple complex projects while maintaining the quality of deliverables.](#11-q1-tell-me-about-a-time-when-you-had-to-manage-a-team-to-meet-tight-deadlines-across-multiple-complex-projects-while-maintaining-the-quality-of-deliverables)
