@@ -6,6 +6,7 @@
   - [Questions](#questions)
   - [1.1. Q1: Tell me about a time when you had to manage a team to meet tight deadlines across multiple complex projects while maintaining the quality of deliverables.](#11-q1-tell-me-about-a-time-when-you-had-to-manage-a-team-to-meet-tight-deadlines-across-multiple-complex-projects-while-maintaining-the-quality-of-deliverables)
   - [1.2. Q2: Describe a situation where you had to manage conflict within your team, particularly when dealing with a technically strong but behaviorally difficult engineer who negatively impacts team morale.](#12-q2-describe-a-situation-where-you-had-to-manage-conflict-within-your-team-particularly-when-dealing-with-a-technically-strong-but-behaviorally-difficult-engineer-who-negatively-impacts-team-morale)
+    - [A note on conflict management](#a-note-on-conflict-management)
   - [1.3. Q3: How do you approach setting SMART goals for your team, and how do you ensure these goals are tracked and achieved?](#13-q3-how-do-you-approach-setting-smart-goals-for-your-team-and-how-do-you-ensure-these-goals-are-tracked-and-achieved)
   - [1.4. Q4: Imagine you’ve received a 10% lower budget than anticipated for appraisals. How would you keep your team members satisfied while distributing the budget?](#14-q4-imagine-youve-received-a-10-lower-budget-than-anticipated-for-appraisals-how-would-you-keep-your-team-members-satisfied-while-distributing-the-budget)
   - [1.5. Q5: How do you manage and prioritize multiple initiatives in your portfolio, ensuring timely delivery without compromising on quality?](#15-q5-how-do-you-manage-and-prioritize-multiple-initiatives-in-your-portfolio-ensuring-timely-delivery-without-compromising-on-quality)
@@ -72,6 +73,26 @@
 **Reflection:** This situation taught me the value of addressing conflicts with empathy and transparency, turning potential issues into opportunities for growth while maintaining team cohesion.
 
 *[Back](#questions)*
+
+---
+
+### A note on conflict management
+
+- detect conflict (use 1o1, team retro and productivity measurements)
+  - Identify source/cause of conflict
+    - ownership boundary
+    - personality clash
+    - technical differences
+    - miscommunication/ misaligned expectation
+    - failure/ blame game
+- classify: minor/medium/major
+- Resolve:
+  - active listening
+  - unbiased approach
+  - transparent
+  - empathy
+  - reasoning
+  - action plan
 
 ---
 
