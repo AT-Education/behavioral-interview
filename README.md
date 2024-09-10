@@ -21,6 +21,8 @@
   - [1.10. Q10. Tell me about a time when you had to adhere to a policy you didn’t agree with. How did you handle the situation?](#110-q10-tell-me-about-a-time-when-you-had-to-adhere-to-a-policy-you-didnt-agree-with-how-did-you-handle-the-situation)
   - [1.11. Q11. Tell me about a time when you had to deal with major external blockers or impediments that affected your project’s delivery. How did you overcome them?](#111-q11-tell-me-about-a-time-when-you-had-to-deal-with-major-external-blockers-or-impediments-that-affected-your-projects-delivery-how-did-you-overcome-them)
   - [Q. How do you handle employee retentions](#q-how-do-you-handle-employee-retentions)
+  - [Q. How do you build a DNI team (diversity and Inclusive)](#q-how-do-you-build-a-dni-team-diversity-and-inclusive)
+  - [Q. How to steward a team during a difficult phase](#q-how-to-steward-a-team-during-a-difficult-phase)
 
 ---
 ---
@@ -357,3 +359,26 @@ There are several ways to employ in order to retain an employee:
 - public appreciation
 
 ---
+
+## Q. How do you build a DNI team (diversity and Inclusive)
+
+Diverse teams will have more creative and innovative ideas to solve problems. It's statistically proven that teams with diverse backgrounds have a lower attrition rate. Teams are healthier and happier because of the presence of different cultures. This makes the team environment more open. Focusing on hiring from all backgrounds leads to a much larger pool for hiring, and companies will have more people to choose from.
+
+To build a DNI team, do the following:
+
+- identify the URM (under represented minority) group
+- reach out to URM group through channels for hiring
+- NEVER lower the bar to hire URM group
+- Once hired, ensure to keep the work environment safe and respectful for everyone
+- Unbiased approach for growth, career and benefit plan for URM group.
+
+---
+
+## Q. How to steward a team during a difficult phase
+
+- Transparency (team meeting)
+- Empathy (1o1)
+- Resilience and action plan
+- re-prioritization
+- lower goals/ expectations
+- anonymous survey
