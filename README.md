@@ -27,10 +27,13 @@
       - [1.16.0.3. Organizational restructuring](#11603-organizational-restructuring)
         - [1.16.0.3.1. Causes](#116031-causes)
         - [1.16.0.3.2. Challenges](#116032-challenges)
-    - [1.16.1. Q. What are the things as an EM you could have handled better?](#1161-q-what-are-the-things-as-an-em-you-could-have-handled-better)
-    - [1.16.2. Q. How do you do costing and budgeting for your team?](#1162-q-how-do-you-do-costing-and-budgeting-for-your-team)
-      - [1.16.2.1. Costing](#11621-costing)
-      - [1.16.2.2. Budgeting](#11622-budgeting)
+  - [1.17. Q. What are the things as an EM you could have handled better?](#117-q-what-are-the-things-as-an-em-you-could-have-handled-better)
+  - [1.18. Q. How do you do costing and budgeting for your team?](#118-q-how-do-you-do-costing-and-budgeting-for-your-team)
+    - [1.18.1. Costing](#1181-costing)
+    - [1.18.2. Budgeting](#1182-budgeting)
+  - [1.19. Mission Vision and Strategy](#119-mission-vision-and-strategy)
+    - [1.19.1. Your role as an EM to build strategy](#1191-your-role-as-an-em-to-build-strategy)
+  - [1.20. Q. Give an example of a project that failed despite the effort and passion that went into it](#120-q-give-an-example-of-a-project-that-failed-despite-the-effort-and-passion-that-went-into-it)
 
 ---
 ---
@@ -484,7 +487,7 @@ to manage a distributed team, I use:
 
 ---
 
-### 1.16.1. Q. What are the things as an EM you could have handled better?
+## 1.17. Q. What are the things as an EM you could have handled better?
 
 - I could have included the whole team for quarterly roadmap planning
 - Promoting people sometime to stop attrition
@@ -499,13 +502,13 @@ to manage a distributed team, I use:
 
 ---
 
-### 1.16.2. Q. How do you do costing and budgeting for your team?
+## 1.18. Q. How do you do costing and budgeting for your team?
 
 Costing and budgeting are two separate but related activities. 
 Costing is where you estimate how much time a project will take to complete. 
 Budgeting is how you will manage available engineering bandwidth for the project.
 
-#### 1.16.2.1. Costing
+### 1.18.1. Costing
 
 - The core idea behind costing is breaking down the project into smaller components that will allow you to make a rough estimate.
 - Breaking user stories to high level tech stories/tasks
@@ -515,9 +518,59 @@ Budgeting is how you will manage available engineering bandwidth for the project
 - Calculate total squad months
 - Include buffer
 
-#### 1.16.2.2. Budgeting
+### 1.18.2. Budgeting
 
 - identify work-streams
 - ask each TLs work-streams they are interested in
 - ask each individual which work-streams they are interested in
 - you have to choose project owners based on skill match and priority
+
+*[Back](#1-questions)*
+
+---
+
+## 1.19. Mission Vision and Strategy
+
+- **Mission**: purpose of the team. ex: "to provide a unified workflow platform for mortgage team" 
+- **Vision**: What you want to accomplish in next 12-24 months
+- **Strategy**: High level steps taken or direction to achieve the goals of their vision statement
+
+### 1.19.1. Your role as an EM to build strategy
+
+**Mission Statement**: _"To create a unified, automated workflow platform that empowers banks to streamline their mortgage processes, enhance operational efficiency, and deliver exceptional customer experiences"_
+**Vision statement**: _"To be the industry-leading provider of innovative mortgage workflow solutions, enabling banks to achieve operational excellence, reduce costs, and drive growth"_
+
+For strategy, get involved in decisions on following, with documented decisions/ADRs:
+
+- tech stack
+- architecture
+- portfolio lifecycle from PoC -> skateboard modelling -> MVP -> project -> platform -> retire
+- project milestones and scope for each milestone
+- development methodology - Agile/scrum/waterfall etc
+- devops practices
+- Team topology: XFN, roles and responsibilities
+- decisions on NFR
+- release management strategies (dark release etc)
+- Cadence of ceremonies like sprint duration, project retrospective
+- Quality assurance frameworks
+- Definition of success as per SMART team goals (eg: API quality score should be at least 90%, p99 for all API response should be <1s)
+- metrics and analytics
+- ITSM and BCM
+
+*[Back](#1-questions)*
+
+---
+
+## 1.20. Q. Give an example of a project that failed despite the effort and passion that went into it
+
+example of supply chain management, and how purchase order processing failed for large customers.
+
+- Issue with buy-in from all stake holders on nature of files
+- Issue with buy-in suppliers with common understanding of delivery timelines in writing
+- under-estimation of technical complexities
+- not selecting "buy-over-build" principle
+- hyper care/stability buffer between actual production release and opening to customer on first version
+
+*[Back](#1-questions)*
+
+---
