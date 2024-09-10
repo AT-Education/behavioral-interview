@@ -2,38 +2,40 @@
 
 - [1. Questions](#1-questions)
   - [1.1. Q1: Tell me about a time when you had to manage a team to meet tight deadlines across multiple complex projects while maintaining the quality of deliverables.](#11-q1-tell-me-about-a-time-when-you-had-to-manage-a-team-to-meet-tight-deadlines-across-multiple-complex-projects-while-maintaining-the-quality-of-deliverables)
-  - [1.2. Q2: Describe a situation where you had to manage conflict within your team, particularly when dealing with a technically strong but behaviorally difficult engineer who negatively impacts team morale.](#12-q2-describe-a-situation-where-you-had-to-manage-conflict-within-your-team-particularly-when-dealing-with-a-technically-strong-but-behaviorally-difficult-engineer-who-negatively-impacts-team-morale)
-    - [1.2.1. A note on conflict management](#121-a-note-on-conflict-management)
-  - [1.3. Q3: How do you approach setting SMART goals for your team, and how do you ensure these goals are tracked and achieved?](#13-q3-how-do-you-approach-setting-smart-goals-for-your-team-and-how-do-you-ensure-these-goals-are-tracked-and-achieved)
-  - [1.4. Q4: Imagine you’ve received a 10% lower budget than anticipated for appraisals. How would you keep your team members satisfied while distributing the budget?](#14-q4-imagine-youve-received-a-10-lower-budget-than-anticipated-for-appraisals-how-would-you-keep-your-team-members-satisfied-while-distributing-the-budget)
-  - [1.5. Q5: How do you manage and prioritize multiple initiatives in your portfolio, ensuring timely delivery without compromising on quality?](#15-q5-how-do-you-manage-and-prioritize-multiple-initiatives-in-your-portfolio-ensuring-timely-delivery-without-compromising-on-quality)
-  - [1.6. Q7: Can you describe a time when you had to manage risks in your project? How did you identify, assess, and mitigate those risks?](#16-q7-can-you-describe-a-time-when-you-had-to-manage-risks-in-your-project-how-did-you-identify-assess-and-mitigate-those-risks)
-  - [1.7. Q8: Tell me about a time when you had to give someone difficult feedback. How did you handle the situation?](#17-q8-tell-me-about-a-time-when-you-had-to-give-someone-difficult-feedback-how-did-you-handle-the-situation)
-    - [1.7.1. A note on one-to-one](#171-a-note-on-one-to-one)
-      - [1.7.1.1. Managing low performer](#1711-managing-low-performer)
-      - [1.7.1.2. Managing high performers](#1712-managing-high-performers)
-      - [1.7.1.3. Managing growth](#1713-managing-growth)
-  - [1.8. Q9. Describe a time when you had to gather information from multiple sources. How did you determine which information was most relevant?](#18-q9-describe-a-time-when-you-had-to-gather-information-from-multiple-sources-how-did-you-determine-which-information-was-most-relevant)
-  - [1.9. Q10. Tell me about a time when you had to adhere to a policy you didn’t agree with. How did you handle the situation?](#19-q10-tell-me-about-a-time-when-you-had-to-adhere-to-a-policy-you-didnt-agree-with-how-did-you-handle-the-situation)
-  - [1.10. Q11. Tell me about a time when you had to deal with major external blockers or impediments that affected your project’s delivery. How did you overcome them?](#110-q11-tell-me-about-a-time-when-you-had-to-deal-with-major-external-blockers-or-impediments-that-affected-your-projects-delivery-how-did-you-overcome-them)
-  - [1.11. Q. How do you handle employee retentions](#111-q-how-do-you-handle-employee-retentions)
-  - [1.12. Q. How do you build a DNI team (diversity and Inclusive)](#112-q-how-do-you-build-a-dni-team-diversity-and-inclusive)
-  - [1.13. Q. How to steward a team during a difficult phase](#113-q-how-to-steward-a-team-during-a-difficult-phase)
-  - [1.14. Q. Performance reviews](#114-q-performance-reviews)
-  - [1.15. Q. Managing remote teams](#115-q-managing-remote-teams)
-  - [1.16. A note on managing managers and role of SEM(or EM2)](#116-a-note-on-managing-managers-and-role-of-semor-em2)
-      - [1.16.0.1. Helping an EM1 to grow](#11601-helping-an-em1-to-grow)
-      - [1.16.0.2. Supporting an under performing team](#11602-supporting-an-under-performing-team)
-      - [1.16.0.3. Organizational restructuring](#11603-organizational-restructuring)
-        - [1.16.0.3.1. Causes](#116031-causes)
-        - [1.16.0.3.2. Challenges](#116032-challenges)
-  - [1.17. Q. What are the things as an EM you could have handled better?](#117-q-what-are-the-things-as-an-em-you-could-have-handled-better)
-  - [1.18. Q. How do you do costing and budgeting for your team?](#118-q-how-do-you-do-costing-and-budgeting-for-your-team)
-    - [1.18.1. Costing](#1181-costing)
-    - [1.18.2. Budgeting](#1182-budgeting)
-  - [1.19. Mission Vision and Strategy](#119-mission-vision-and-strategy)
-    - [1.19.1. Your role as an EM to build strategy](#1191-your-role-as-an-em-to-build-strategy)
-  - [1.20. Q. Give an example of a project that failed despite the effort and passion that went into it](#120-q-give-an-example-of-a-project-that-failed-despite-the-effort-and-passion-that-went-into-it)
+  - [1.2. Q. you are joining a new organization as an engineering manager. How will you gel with an already existing team?](#12-q-you-are-joining-a-new-organization-as-an-engineering-manager-how-will-you-gel-with-an-already-existing-team)
+  - [1.3. Q2: Describe a situation where you had to manage conflict within your team, particularly when dealing with a technically strong but behaviorally difficult engineer who negatively impacts team morale.](#13-q2-describe-a-situation-where-you-had-to-manage-conflict-within-your-team-particularly-when-dealing-with-a-technically-strong-but-behaviorally-difficult-engineer-who-negatively-impacts-team-morale)
+    - [1.3.1. A note on conflict management](#131-a-note-on-conflict-management)
+  - [1.4. Q3: How do you approach setting SMART goals for your team, and how do you ensure these goals are tracked and achieved?](#14-q3-how-do-you-approach-setting-smart-goals-for-your-team-and-how-do-you-ensure-these-goals-are-tracked-and-achieved)
+  - [1.5. Q4: Imagine you’ve received a 10% lower budget than anticipated for appraisals. How would you keep your team members satisfied while distributing the budget?](#15-q4-imagine-youve-received-a-10-lower-budget-than-anticipated-for-appraisals-how-would-you-keep-your-team-members-satisfied-while-distributing-the-budget)
+  - [1.6. Q5: How do you manage and prioritize multiple initiatives in your portfolio, ensuring timely delivery without compromising on quality?](#16-q5-how-do-you-manage-and-prioritize-multiple-initiatives-in-your-portfolio-ensuring-timely-delivery-without-compromising-on-quality)
+  - [1.7. Q7: Can you describe a time when you had to manage risks in your project? How did you identify, assess, and mitigate those risks?](#17-q7-can-you-describe-a-time-when-you-had-to-manage-risks-in-your-project-how-did-you-identify-assess-and-mitigate-those-risks)
+  - [1.8. Q8: Tell me about a time when you had to give someone difficult feedback. How did you handle the situation?](#18-q8-tell-me-about-a-time-when-you-had-to-give-someone-difficult-feedback-how-did-you-handle-the-situation)
+    - [1.8.1. A note on one-to-one](#181-a-note-on-one-to-one)
+      - [1.8.1.1. Managing low performer](#1811-managing-low-performer)
+      - [1.8.1.2. Managing high performers](#1812-managing-high-performers)
+      - [1.8.1.3. Managing growth](#1813-managing-growth)
+  - [1.9. Q9. Describe a time when you had to gather information from multiple sources. How did you determine which information was most relevant?](#19-q9-describe-a-time-when-you-had-to-gather-information-from-multiple-sources-how-did-you-determine-which-information-was-most-relevant)
+  - [1.10. Q10. Tell me about a time when you had to adhere to a policy you didn’t agree with. How did you handle the situation?](#110-q10-tell-me-about-a-time-when-you-had-to-adhere-to-a-policy-you-didnt-agree-with-how-did-you-handle-the-situation)
+  - [1.11. Q11. Tell me about a time when you had to deal with major external blockers or impediments that affected your project’s delivery. How did you overcome them?](#111-q11-tell-me-about-a-time-when-you-had-to-deal-with-major-external-blockers-or-impediments-that-affected-your-projects-delivery-how-did-you-overcome-them)
+  - [1.12. Q. How will you](#112-q-how-will-you)
+  - [1.13. Q. How do you handle employee retentions](#113-q-how-do-you-handle-employee-retentions)
+  - [1.14. Q. How do you build a DNI team (diversity and Inclusive)](#114-q-how-do-you-build-a-dni-team-diversity-and-inclusive)
+  - [1.15. Q. How to steward a team during a difficult phase](#115-q-how-to-steward-a-team-during-a-difficult-phase)
+  - [1.16. Q. Performance reviews](#116-q-performance-reviews)
+  - [1.17. Q. Managing remote teams](#117-q-managing-remote-teams)
+  - [1.18. A note on managing managers and role of SEM(or EM2)](#118-a-note-on-managing-managers-and-role-of-semor-em2)
+      - [1.18.0.1. Helping an EM1 to grow](#11801-helping-an-em1-to-grow)
+      - [1.18.0.2. Supporting an under performing team](#11802-supporting-an-under-performing-team)
+      - [1.18.0.3. Organizational restructuring](#11803-organizational-restructuring)
+        - [1.18.0.3.1. Causes](#118031-causes)
+        - [1.18.0.3.2. Challenges](#118032-challenges)
+  - [1.19. Q. What are the things as an EM you could have handled better?](#119-q-what-are-the-things-as-an-em-you-could-have-handled-better)
+  - [1.20. Q. How do you do costing and budgeting for your team?](#120-q-how-do-you-do-costing-and-budgeting-for-your-team)
+    - [1.20.1. Costing](#1201-costing)
+    - [1.20.2. Budgeting](#1202-budgeting)
+  - [1.21. Mission Vision and Strategy](#121-mission-vision-and-strategy)
+    - [1.21.1. Your role as an EM to build strategy](#1211-your-role-as-an-em-to-build-strategy)
+  - [1.22. Q. Give an example of a project that failed despite the effort and passion that went into it](#122-q-give-an-example-of-a-project-that-failed-despite-the-effort-and-passion-that-went-into-it)
 
 ---
 ---
@@ -64,7 +66,27 @@
 
 ---
 
-## 1.2. Q2: Describe a situation where you had to manage conflict within your team, particularly when dealing with a technically strong but behaviorally difficult engineer who negatively impacts team morale.
+## 1.2. Q. you are joining a new organization as an engineering manager. How will you gel with an already existing team?
+
+- Observe the team for first 2 weeks 
+  - to know their way of working
+  - team dynamics, their SWOT
+- Learn about product mission, vision and strategies
+- Learn about tech stack and tools
+- Active listening
+- 1o1
+- feedback and feed forward
+- transparent communication
+- regular updates
+- fun and engaging team activities like hackathon etc
+- PR review, pair programming and bug fixes, to feel team members comfortable
+- XFN collaboration
+
+*[Back](#1-questions)*
+
+---
+
+## 1.3. Q2: Describe a situation where you had to manage conflict within your team, particularly when dealing with a technically strong but behaviorally difficult engineer who negatively impacts team morale.
 
 **Situation:** While managing a development team at [Previous Company], one of my strongest engineers exhibited behavior that was causing tension and reducing team morale, despite his technical excellence.
 
@@ -90,7 +112,7 @@
 
 ---
 
-### 1.2.1. A note on conflict management
+### 1.3.1. A note on conflict management
 
 - detect conflict (use 1o1, team retro and productivity measurements)
   - ownership boundary
@@ -109,7 +131,7 @@
 
 ---
 
-## 1.3. Q3: How do you approach setting SMART goals for your team, and how do you ensure these goals are tracked and achieved?
+## 1.4. Q3: How do you approach setting SMART goals for your team, and how do you ensure these goals are tracked and achieved?
 
 **Situation:** During the annual planning cycle at [Previous Company], I was tasked with setting objectives for my engineering squads based on the Annual Business Requirements (ABR).
 
@@ -135,7 +157,7 @@
 
 ---
 
-## 1.4. Q4: Imagine you’ve received a 10% lower budget than anticipated for appraisals. How would you keep your team members satisfied while distributing the budget?
+## 1.5. Q4: Imagine you’ve received a 10% lower budget than anticipated for appraisals. How would you keep your team members satisfied while distributing the budget?
 
 **Situation:** During the annual appraisal process at [Previous Company], I learned that the budget for salary increases was 10% lower than expected, which posed a challenge for recognizing my team's efforts adequately.
 
@@ -161,7 +183,7 @@
 
 ---
 
-## 1.5. Q5: How do you manage and prioritize multiple initiatives in your portfolio, ensuring timely delivery without compromising on quality?
+## 1.6. Q5: How do you manage and prioritize multiple initiatives in your portfolio, ensuring timely delivery without compromising on quality?
 
 **Situation:** At [Previous Company], I was managing a portfolio of multiple initiatives, each with competing deadlines and varying levels of complexity.
 
@@ -187,7 +209,7 @@
 
 ---
 
-## 1.6. Q7: Can you describe a time when you had to manage risks in your project? How did you identify, assess, and mitigate those risks?
+## 1.7. Q7: Can you describe a time when you had to manage risks in your project? How did you identify, assess, and mitigate those risks?
 
 **Situation:** As an engineering manager at [Previous Company], I was leading a large-scale software development project with a tight deadline. The project involved integrating multiple systems and introducing new technologies, which posed significant risks to its success.
 
@@ -215,7 +237,7 @@
 
 ---
 
-## 1.7. Q8: Tell me about a time when you had to give someone difficult feedback. How did you handle the situation?
+## 1.8. Q8: Tell me about a time when you had to give someone difficult feedback. How did you handle the situation?
 
 **Situation:** As an engineering manager at [Previous Company], I had to give a performance review to a team member who had been consistently underperforming. The employee was a valuable team member, but their recent work had fallen short of expectations.
 
@@ -238,9 +260,9 @@
 **Reflection:** I learned the importance of delivering feedback in a constructive and supportive manner. By focusing on the employee's strengths and providing clear guidance, I was able to foster a positive and productive relationship, even in a difficult situation.
 
 
-### 1.7.1. A note on one-to-one
+### 1.8.1. A note on one-to-one
 
-#### 1.7.1.1. Managing low performer
+#### 1.8.1.1. Managing low performer
 
 - low performers could be cause of:
   - not a good fit/ bad hiring
@@ -252,7 +274,7 @@
 - reassess
 - act (in case of PIP engage with HR partner and leadership)
 
-#### 1.7.1.2. Managing high performers
+#### 1.8.1.2. Managing high performers
 
 - identify high performers
 - identify risks of 
@@ -263,7 +285,7 @@
 - help them handling failure
 - have growth plan/strategy and mentoring
 
-#### 1.7.1.3. Managing growth
+#### 1.8.1.3. Managing growth
 
 - promotions are lagging indicator and not leading indicator
 - identify gaps in one's current profile and desired profile
@@ -276,7 +298,7 @@
 *[Back](#1-questions)*
 
 ---
-## 1.8. Q9. Describe a time when you had to gather information from multiple sources. How did you determine which information was most relevant?
+## 1.9. Q9. Describe a time when you had to gather information from multiple sources. How did you determine which information was most relevant?
 
 **Situation:** As an engineering manager at [Previous Company], I was tasked with investigating a performance issue with a critical system. The issue was impacting multiple departments and required a comprehensive understanding of the system's architecture, dependencies, and recent changes.
 
@@ -302,7 +324,7 @@
 
 ---
 
-## 1.9. Q10. Tell me about a time when you had to adhere to a policy you didn’t agree with. How did you handle the situation?
+## 1.10. Q10. Tell me about a time when you had to adhere to a policy you didn’t agree with. How did you handle the situation?
 
 **Situation:** As an engineering manager at [Previous Company], I was required to implement a new company policy that mandated a mandatory overtime requirement for all engineering teams. I personally disagreed with this policy, believing that it could lead to burnout and decreased productivity.
 
@@ -333,7 +355,7 @@
 
 ---
 
-## 1.10. Q11. Tell me about a time when you had to deal with major external blockers or impediments that affected your project’s delivery. How did you overcome them?
+## 1.11. Q11. Tell me about a time when you had to deal with major external blockers or impediments that affected your project’s delivery. How did you overcome them?
 
 **Situation:** While leading a critical software development project at [Previous Company], we encountered significant external blockers that threatened to delay the project's delivery. One of the major impediments was a dependency on a third-party API that was experiencing frequent outages and performance issues.
 
@@ -356,7 +378,12 @@
 
 ---
 
-## 1.11. Q. How do you handle employee retentions
+## 1.12. Q. How will you 
+
+*[Back](#1-questions)*
+
+---
+## 1.13. Q. How do you handle employee retentions
 
 There are several ways to employ in order to retain an employee: 
 
@@ -373,7 +400,7 @@ There are several ways to employ in order to retain an employee:
 
 ---
 
-## 1.12. Q. How do you build a DNI team (diversity and Inclusive)
+## 1.14. Q. How do you build a DNI team (diversity and Inclusive)
 
 Diverse teams will have more creative and innovative ideas to solve problems. It's statistically proven that teams with diverse backgrounds have a lower attrition rate. Teams are healthier and happier because of the presence of different cultures. This makes the team environment more open. Focusing on hiring from all backgrounds leads to a much larger pool for hiring, and companies will have more people to choose from.
 
@@ -389,7 +416,7 @@ To build a DNI team, do the following:
 
 ---
 
-## 1.13. Q. How to steward a team during a difficult phase
+## 1.15. Q. How to steward a team during a difficult phase
 
 - Transparency (team meeting)
 - Empathy (1o1)
@@ -402,7 +429,7 @@ To build a DNI team, do the following:
 
 ---
 
-## 1.14. Q. Performance reviews
+## 1.16. Q. Performance reviews
 
 steps involves:
 
@@ -424,7 +451,7 @@ steps involves:
 
 ---
 
-## 1.15. Q. Managing remote teams
+## 1.17. Q. Managing remote teams
 
 managing remote team is difficult because:
 
@@ -447,7 +474,7 @@ to manage a distributed team, I use:
 
 ---
 
-## 1.16. A note on managing managers and role of SEM(or EM2)
+## 1.18. A note on managing managers and role of SEM(or EM2)
 
 - Due to having a much broader scope and more visibility to various parts of the organization, senior EMs are in a better position to ensure that teams have the right privatizations. 
 - They generally also don't have emotional attachments toward individual projects and can make unbiased decisions more easily than EM1s
@@ -455,28 +482,28 @@ to manage a distributed team, I use:
 - They support multiple teams and should be able to evaluate the performance of teams and individuals.
 - They need to know when to transition an IC to a manager.
 
-#### 1.16.0.1. Helping an EM1 to grow
+#### 1.18.0.1. Helping an EM1 to grow
 
 1. You may help EM1s in people support and project management. While coaching them, it is preferable to give them ideas instead of dictating the exact process.
 2. For senior EM1s who have potential, you must gradually grow them to senior EMs. You can help them to grow their teams and attain the skills required for senior EMs.
 3. You may have to help the EM1s when they lack bandwidth.
 4. You can also help them grow by finding leadership training for them, which will help them develop and polish their skills.
 
-#### 1.16.0.2. Supporting an under performing team
+#### 1.18.0.2. Supporting an under performing team
 
 - The most important step to handling an under performing team is finding the root cause of the performance issues.
 - Identify the strategy and plan for actions with your respective EM1. This action is significant because it portrays a senior EM's decision-making skills.
 - The team will need to take action to resolve the issue
 
-#### 1.16.0.3. Organizational restructuring
+#### 1.18.0.3. Organizational restructuring
 
-##### 1.16.0.3.1. Causes
+##### 1.18.0.3.1. Causes
 
 - Organic growth
 - Change in priorities from senior leadership
 - End of some product
 
-##### 1.16.0.3.2. Challenges
+##### 1.18.0.3.2. Challenges
 
 - ICs change of team or manager, with IC feeling drop in trust
 - Product support and business continuity
@@ -487,7 +514,7 @@ to manage a distributed team, I use:
 
 ---
 
-## 1.17. Q. What are the things as an EM you could have handled better?
+## 1.19. Q. What are the things as an EM you could have handled better?
 
 - I could have included the whole team for quarterly roadmap planning
 - Promoting people sometime to stop attrition
@@ -502,13 +529,13 @@ to manage a distributed team, I use:
 
 ---
 
-## 1.18. Q. How do you do costing and budgeting for your team?
+## 1.20. Q. How do you do costing and budgeting for your team?
 
 Costing and budgeting are two separate but related activities. 
 Costing is where you estimate how much time a project will take to complete. 
 Budgeting is how you will manage available engineering bandwidth for the project.
 
-### 1.18.1. Costing
+### 1.20.1. Costing
 
 - The core idea behind costing is breaking down the project into smaller components that will allow you to make a rough estimate.
 - Breaking user stories to high level tech stories/tasks
@@ -518,7 +545,7 @@ Budgeting is how you will manage available engineering bandwidth for the project
 - Calculate total squad months
 - Include buffer
 
-### 1.18.2. Budgeting
+### 1.20.2. Budgeting
 
 - identify work-streams
 - ask each TLs work-streams they are interested in
@@ -529,13 +556,13 @@ Budgeting is how you will manage available engineering bandwidth for the project
 
 ---
 
-## 1.19. Mission Vision and Strategy
+## 1.21. Mission Vision and Strategy
 
 - **Mission**: purpose of the team. ex: "to provide a unified workflow platform for mortgage team" 
 - **Vision**: What you want to accomplish in next 12-24 months
 - **Strategy**: High level steps taken or direction to achieve the goals of their vision statement
 
-### 1.19.1. Your role as an EM to build strategy
+### 1.21.1. Your role as an EM to build strategy
 
 **Mission Statement**: _"To create a unified, automated workflow platform that empowers banks to streamline their mortgage processes, enhance operational efficiency, and deliver exceptional customer experiences"_
 **Vision statement**: _"To be the industry-leading provider of innovative mortgage workflow solutions, enabling banks to achieve operational excellence, reduce costs, and drive growth"_
@@ -561,7 +588,7 @@ For strategy, get involved in decisions on following, with documented decisions/
 
 ---
 
-## 1.20. Q. Give an example of a project that failed despite the effort and passion that went into it
+## 1.22. Q. Give an example of a project that failed despite the effort and passion that went into it
 
 example of supply chain management, and how purchase order processing failed for large customers.
 
