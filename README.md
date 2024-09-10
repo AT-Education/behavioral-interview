@@ -21,12 +21,12 @@
   - [1.13. Q. How to steward a team during a difficult phase](#113-q-how-to-steward-a-team-during-a-difficult-phase)
   - [1.14. Q. Performance reviews](#114-q-performance-reviews)
   - [1.15. Q. Managing remote teams](#115-q-managing-remote-teams)
-    - [1.15.1. A note on managing managers and role of SEM(or EM2)](#1151-a-note-on-managing-managers-and-role-of-semor-em2)
-      - [1.15.1.1. Helping an EM1 to grow](#11511-helping-an-em1-to-grow)
-      - [1.15.1.2. Supporting an under performing team](#11512-supporting-an-under-performing-team)
-      - [1.15.1.3. Organizational restructuring](#11513-organizational-restructuring)
-        - [1.15.1.3.1. Causes](#115131-causes)
-        - [1.15.1.3.2. Challenges](#115132-challenges)
+  - [1.16. A note on managing managers and role of SEM(or EM2)](#116-a-note-on-managing-managers-and-role-of-semor-em2)
+      - [1.16.0.1. Helping an EM1 to grow](#11601-helping-an-em1-to-grow)
+      - [1.16.0.2. Supporting an under performing team](#11602-supporting-an-under-performing-team)
+      - [1.16.0.3. Organizational restructuring](#11603-organizational-restructuring)
+        - [1.16.0.3.1. Causes](#116031-causes)
+        - [1.16.0.3.2. Challenges](#116032-challenges)
 
 ---
 ---
@@ -440,7 +440,7 @@ to manage a distributed team, I use:
 
 ---
 
-### 1.15.1. A note on managing managers and role of SEM(or EM2)
+## 1.16. A note on managing managers and role of SEM(or EM2)
 
 - Due to having a much broader scope and more visibility to various parts of the organization, senior EMs are in a better position to ensure that teams have the right privatizations. 
 - They generally also don't have emotional attachments toward individual projects and can make unbiased decisions more easily than EM1s
@@ -448,28 +448,28 @@ to manage a distributed team, I use:
 - They support multiple teams and should be able to evaluate the performance of teams and individuals.
 - They need to know when to transition an IC to a manager.
 
-#### 1.15.1.1. Helping an EM1 to grow
+#### 1.16.0.1. Helping an EM1 to grow
 
 1. You may help EM1s in people support and project management. While coaching them, it is preferable to give them ideas instead of dictating the exact process.
 2. For senior EM1s who have potential, you must gradually grow them to senior EMs. You can help them to grow their teams and attain the skills required for senior EMs.
 3. You may have to help the EM1s when they lack bandwidth.
 4. You can also help them grow by finding leadership training for them, which will help them develop and polish their skills.
 
-#### 1.15.1.2. Supporting an under performing team
+#### 1.16.0.2. Supporting an under performing team
 
 - The most important step to handling an under performing team is finding the root cause of the performance issues.
 - Identify the strategy and plan for actions with your respective EM1. This action is significant because it portrays a senior EM's decision-making skills.
 - The team will need to take action to resolve the issue
 
-#### 1.15.1.3. Organizational restructuring
+#### 1.16.0.3. Organizational restructuring
 
-##### 1.15.1.3.1. Causes
+##### 1.16.0.3.1. Causes
 
 - Organic growth
 - Change in priorities from senior leadership
 - End of some product
 
-##### 1.15.1.3.2. Challenges
+##### 1.16.0.3.2. Challenges
 
 - ICs change of team or manager, with IC feeling drop in trust
 - Product support and business continuity
