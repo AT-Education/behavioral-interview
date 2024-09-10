@@ -19,7 +19,8 @@
       - [Managing growth](#managing-growth)
   - [1.9. Q9. Describe a time when you had to gather information from multiple sources. How did you determine which information was most relevant?](#19-q9-describe-a-time-when-you-had-to-gather-information-from-multiple-sources-how-did-you-determine-which-information-was-most-relevant)
   - [1.10. Q10. Tell me about a time when you had to adhere to a policy you didn’t agree with. How did you handle the situation?](#110-q10-tell-me-about-a-time-when-you-had-to-adhere-to-a-policy-you-didnt-agree-with-how-did-you-handle-the-situation)
-- [1.11. Q11. Tell me about a time when you had to deal with major external blockers or impediments that affected your project’s delivery. How did you overcome them?](#111-q11-tell-me-about-a-time-when-you-had-to-deal-with-major-external-blockers-or-impediments-that-affected-your-projects-delivery-how-did-you-overcome-them)
+  - [1.11. Q11. Tell me about a time when you had to deal with major external blockers or impediments that affected your project’s delivery. How did you overcome them?](#111-q11-tell-me-about-a-time-when-you-had-to-deal-with-major-external-blockers-or-impediments-that-affected-your-projects-delivery-how-did-you-overcome-them)
+  - [Q. How do you handle employee retentions](#q-how-do-you-handle-employee-retentions)
 
 ---
 ---
@@ -79,12 +80,11 @@
 ### A note on conflict management
 
 - detect conflict (use 1o1, team retro and productivity measurements)
-  - Identify source/cause of conflict
-    - ownership boundary
-    - personality clash
-    - technical differences
-    - miscommunication/ misaligned expectation
-    - failure/ blame game
+  - ownership boundary
+  - personality clash
+  - technical differences
+  - miscommunication/ misaligned expectation
+  - failure/ blame game
 - classify: minor/medium/major
 - Resolve:
   - active listening
@@ -320,7 +320,7 @@
 
 ---
 
-# 1.11. Q11. Tell me about a time when you had to deal with major external blockers or impediments that affected your project’s delivery. How did you overcome them?
+## 1.11. Q11. Tell me about a time when you had to deal with major external blockers or impediments that affected your project’s delivery. How did you overcome them?
 
 **Situation:** While leading a critical software development project at [Previous Company], we encountered significant external blockers that threatened to delay the project's delivery. One of the major impediments was a dependency on a third-party API that was experiencing frequent outages and performance issues.
 
@@ -340,5 +340,20 @@
 **Reflection:** I learned the importance of anticipating and addressing external factors that could impact a project's delivery. By maintaining open communication, developing contingency plans, and fostering a culture of problem-solving, I was able to overcome significant challenges and ensure the project's success.
 
 *[Back](#questions)*
+
+---
+
+## Q. How do you handle employee retentions
+
+There are several ways to employ in order to retain an employee: 
+
+- Recognition
+- Provide career path and growth plan
+- Offer benefit package - cash or kind
+- Offer training
+- Offer support
+- Offer better assignment
+- Try to provide work-life balance
+- public appreciation
 
 ---
