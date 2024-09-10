@@ -1,19 +1,19 @@
 # behavioral-interview
 
-# Questions
+## Questions
 
-- [1. Questions](#1-questions)
+- [behavioral-interview](#behavioral-interview)
+  - [Questions](#questions)
   - [1.1. Q1: Tell me about a time when you had to manage a team to meet tight deadlines across multiple complex projects while maintaining the quality of deliverables.](#11-q1-tell-me-about-a-time-when-you-had-to-manage-a-team-to-meet-tight-deadlines-across-multiple-complex-projects-while-maintaining-the-quality-of-deliverables)
   - [1.2. Q2: Describe a situation where you had to manage conflict within your team, particularly when dealing with a technically strong but behaviorally difficult engineer who negatively impacts team morale.](#12-q2-describe-a-situation-where-you-had-to-manage-conflict-within-your-team-particularly-when-dealing-with-a-technically-strong-but-behaviorally-difficult-engineer-who-negatively-impacts-team-morale)
   - [1.3. Q3: How do you approach setting SMART goals for your team, and how do you ensure these goals are tracked and achieved?](#13-q3-how-do-you-approach-setting-smart-goals-for-your-team-and-how-do-you-ensure-these-goals-are-tracked-and-achieved)
   - [1.4. Q4: Imagine you’ve received a 10% lower budget than anticipated for appraisals. How would you keep your team members satisfied while distributing the budget?](#14-q4-imagine-youve-received-a-10-lower-budget-than-anticipated-for-appraisals-how-would-you-keep-your-team-members-satisfied-while-distributing-the-budget)
   - [1.5. Q5: How do you manage and prioritize multiple initiatives in your portfolio, ensuring timely delivery without compromising on quality?](#15-q5-how-do-you-manage-and-prioritize-multiple-initiatives-in-your-portfolio-ensuring-timely-delivery-without-compromising-on-quality)
-  - [1.6. Q6: How do you manage risks in your project? How did you identify, assess, and mitigate those risks?](#16-q6-how-do-you-manage-risks-in-your-project-how-did-you-identify-assess-and-mitigate-those-risks)
   - [1.7. Q7: Can you describe a time when you had to manage risks in your project? How did you identify, assess, and mitigate those risks?](#17-q7-can-you-describe-a-time-when-you-had-to-manage-risks-in-your-project-how-did-you-identify-assess-and-mitigate-those-risks)
   - [1.8. Q8: Tell me about a time when you had to give someone difficult feedback. How did you handle the situation?](#18-q8-tell-me-about-a-time-when-you-had-to-give-someone-difficult-feedback-how-did-you-handle-the-situation)
   - [1.9. Q9. Describe a time when you had to gather information from multiple sources. How did you determine which information was most relevant?](#19-q9-describe-a-time-when-you-had-to-gather-information-from-multiple-sources-how-did-you-determine-which-information-was-most-relevant)
   - [1.10. Q10. Tell me about a time when you had to adhere to a policy you didn’t agree with. How did you handle the situation?](#110-q10-tell-me-about-a-time-when-you-had-to-adhere-to-a-policy-you-didnt-agree-with-how-did-you-handle-the-situation)
-  - [1. Q11. Tell me about a time when you had to deal with major external blockers or impediments that affected your project’s delivery. How did you overcome them?](#111-q11-tell-me-about-a-time-when-you-had-to-deal-with-major-external-blockers-or-impediments-that-affected-your-projects-delivery-how-did-you-overcome-them)
+- [1.11. Q11. Tell me about a time when you had to deal with major external blockers or impediments that affected your project’s delivery. How did you overcome them?](#111-q11-tell-me-about-a-time-when-you-had-to-deal-with-major-external-blockers-or-impediments-that-affected-your-projects-delivery-how-did-you-overcome-them)
 
 ---
 ---
@@ -143,32 +143,6 @@
 **Result:** All initiatives were delivered on time, with high quality maintained across projects, and team productivity remained strong throughout.
 
 **Reflection:** A structured, iterative approach combined with careful prioritization and risk management was key to successfully managing multiple initiatives without compromising on quality.
-
-*[Back](#questions)*
-
----
-
-## 1.6. Q6: How do you manage risks in your project? How did you identify, assess, and mitigate those risks?
-
-**Situation:** During a major project at [Previous Company], I faced potential risks related to third-party integrations and resource constraints that could delay delivery.
-
-**Task:** My task was to identify and mitigate these risks while keeping the project on track.
-
-**Action:**  
-1. **Risk Identification:**  
-   - Conducted risk identification during backlog refinement, assessing potential impacts and causes of delays.  
-2. **Risk Assessment:**  
-   - Evaluated risks based on likelihood and impact, quantifying risk exposure and prioritizing the top 10 risks for further action.  
-3. **Risk Mapping:**  
-   - Created a visual risk map using Miro boards, tagging tasks with risk types and mitigation categories for easy tracking.  
-4. **Mitigation Planning:**  
-   - Developed contingency plans, transferred risk where possible, and avoided high-risk areas by adjusting the project scope.  
-5. **Monitoring:**  
-   - Tracked risk reduction over time using a burndown chart and adjusted resources as necessary to mitigate issues.
-
-**Result:** Through proactive risk management, we avoided significant delays and delivered the project successfully within the original timeline.
-
-**Reflection:** Anticipating risks and having a clear mitigation strategy in place was essential to keeping the project on track, especially in a complex environment with many dependencies.
 
 *[Back](#questions)*
 
