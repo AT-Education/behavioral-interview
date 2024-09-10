@@ -11,6 +11,11 @@
   - [1.5. Q5: How do you manage and prioritize multiple initiatives in your portfolio, ensuring timely delivery without compromising on quality?](#15-q5-how-do-you-manage-and-prioritize-multiple-initiatives-in-your-portfolio-ensuring-timely-delivery-without-compromising-on-quality)
   - [1.7. Q7: Can you describe a time when you had to manage risks in your project? How did you identify, assess, and mitigate those risks?](#17-q7-can-you-describe-a-time-when-you-had-to-manage-risks-in-your-project-how-did-you-identify-assess-and-mitigate-those-risks)
   - [1.8. Q8: Tell me about a time when you had to give someone difficult feedback. How did you handle the situation?](#18-q8-tell-me-about-a-time-when-you-had-to-give-someone-difficult-feedback-how-did-you-handle-the-situation)
+  - [*Back*](#back)
+    - [A note on one-to-one](#a-note-on-one-to-one)
+      - [Managing low performer](#managing-low-performer)
+      - [Managing high performers](#managing-high-performers)
+      - [Managing growth](#managing-growth)
   - [1.9. Q9. Describe a time when you had to gather information from multiple sources. How did you determine which information was most relevant?](#19-q9-describe-a-time-when-you-had-to-gather-information-from-multiple-sources-how-did-you-determine-which-information-was-most-relevant)
   - [1.10. Q10. Tell me about a time when you had to adhere to a policy you didn’t agree with. How did you handle the situation?](#110-q10-tell-me-about-a-time-when-you-had-to-adhere-to-a-policy-you-didnt-agree-with-how-did-you-handle-the-situation)
 - [1.11. Q11. Tell me about a time when you had to deal with major external blockers or impediments that affected your project’s delivery. How did you overcome them?](#111-q11-tell-me-about-a-time-when-you-had-to-deal-with-major-external-blockers-or-impediments-that-affected-your-projects-delivery-how-did-you-overcome-them)
@@ -199,6 +204,42 @@
 **Reflection:** I learned the importance of delivering feedback in a constructive and supportive manner. By focusing on the employee's strengths and providing clear guidance, I was able to foster a positive and productive relationship, even in a difficult situation.
 
 *[Back](#questions)*
+---
+
+### A note on one-to-one
+
+#### Managing low performer
+
+- low performers could be cause of:
+  - not a good fit/ bad hiring
+  - personal challenges
+  - Lack of motivation/ over burdened
+- identify root cause by talking to the candidate and peers (esp TL)
+- device an action plan
+- monitor
+- reassess
+- act (in case of PIP engage with HR partner and leadership)
+
+#### Managing high performers
+
+- identify high performers
+- identify risks of 
+  - burnt out
+  - feeling under appreciated
+  - feeling under challenged
+- monitor to make them adhere to engineering processes
+- help them handling failure
+- have growth plan/strategy and mentoring
+
+#### Managing growth
+
+- promotions are lagging indicator and not leading indicator
+- identify gaps in one's current profile and desired profile
+- create a growth plan - concrete deliverables to fill those gaps
+- find a mentor
+- monitor progress
+- after sustained growth plan success, prime them for promotion
+- find promotion sponsors
 
 ---
 ## 1.9. Q9. Describe a time when you had to gather information from multiple sources. How did you determine which information was most relevant?
