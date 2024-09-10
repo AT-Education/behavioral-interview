@@ -75,7 +75,7 @@
 - Learn about tech stack and tools
 - Active listening
 - 1o1
-- feedback and feed forward
+- asking for feedbacks
 - transparent communication
 - regular updates
 - fun and engaging team activities like hackathon etc
