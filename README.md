@@ -1,33 +1,37 @@
-# behavioral-interview
+# 1. Questions
 
-## Questions
-
-- [behavioral-interview](#behavioral-interview)
-  - [Questions](#questions)
-  - [1.1. Q1: Tell me about a time when you had to manage a team to meet tight deadlines across multiple complex projects while maintaining the quality of deliverables.](#11-q1-tell-me-about-a-time-when-you-had-to-manage-a-team-to-meet-tight-deadlines-across-multiple-complex-projects-while-maintaining-the-quality-of-deliverables)
-  - [1.2. Q2: Describe a situation where you had to manage conflict within your team, particularly when dealing with a technically strong but behaviorally difficult engineer who negatively impacts team morale.](#12-q2-describe-a-situation-where-you-had-to-manage-conflict-within-your-team-particularly-when-dealing-with-a-technically-strong-but-behaviorally-difficult-engineer-who-negatively-impacts-team-morale)
-    - [A note on conflict management](#a-note-on-conflict-management)
-  - [1.3. Q3: How do you approach setting SMART goals for your team, and how do you ensure these goals are tracked and achieved?](#13-q3-how-do-you-approach-setting-smart-goals-for-your-team-and-how-do-you-ensure-these-goals-are-tracked-and-achieved)
-  - [1.4. Q4: Imagine you’ve received a 10% lower budget than anticipated for appraisals. How would you keep your team members satisfied while distributing the budget?](#14-q4-imagine-youve-received-a-10-lower-budget-than-anticipated-for-appraisals-how-would-you-keep-your-team-members-satisfied-while-distributing-the-budget)
-  - [1.5. Q5: How do you manage and prioritize multiple initiatives in your portfolio, ensuring timely delivery without compromising on quality?](#15-q5-how-do-you-manage-and-prioritize-multiple-initiatives-in-your-portfolio-ensuring-timely-delivery-without-compromising-on-quality)
+- [1. Questions](#1-questions)
+  - [1.2. Q1: Tell me about a time when you had to manage a team to meet tight deadlines across multiple complex projects while maintaining the quality of deliverables.](#12-q1-tell-me-about-a-time-when-you-had-to-manage-a-team-to-meet-tight-deadlines-across-multiple-complex-projects-while-maintaining-the-quality-of-deliverables)
+  - [1.3. Q2: Describe a situation where you had to manage conflict within your team, particularly when dealing with a technically strong but behaviorally difficult engineer who negatively impacts team morale.](#13-q2-describe-a-situation-where-you-had-to-manage-conflict-within-your-team-particularly-when-dealing-with-a-technically-strong-but-behaviorally-difficult-engineer-who-negatively-impacts-team-morale)
+    - [1.3.1. A note on conflict management](#131-a-note-on-conflict-management)
+  - [1.4. Q3: How do you approach setting SMART goals for your team, and how do you ensure these goals are tracked and achieved?](#14-q3-how-do-you-approach-setting-smart-goals-for-your-team-and-how-do-you-ensure-these-goals-are-tracked-and-achieved)
+  - [1.5. Q4: Imagine you’ve received a 10% lower budget than anticipated for appraisals. How would you keep your team members satisfied while distributing the budget?](#15-q4-imagine-youve-received-a-10-lower-budget-than-anticipated-for-appraisals-how-would-you-keep-your-team-members-satisfied-while-distributing-the-budget)
+  - [1.6. Q5: How do you manage and prioritize multiple initiatives in your portfolio, ensuring timely delivery without compromising on quality?](#16-q5-how-do-you-manage-and-prioritize-multiple-initiatives-in-your-portfolio-ensuring-timely-delivery-without-compromising-on-quality)
   - [1.7. Q7: Can you describe a time when you had to manage risks in your project? How did you identify, assess, and mitigate those risks?](#17-q7-can-you-describe-a-time-when-you-had-to-manage-risks-in-your-project-how-did-you-identify-assess-and-mitigate-those-risks)
   - [1.8. Q8: Tell me about a time when you had to give someone difficult feedback. How did you handle the situation?](#18-q8-tell-me-about-a-time-when-you-had-to-give-someone-difficult-feedback-how-did-you-handle-the-situation)
-  - [*Back*](#back)
-    - [A note on one-to-one](#a-note-on-one-to-one)
-      - [Managing low performer](#managing-low-performer)
-      - [Managing high performers](#managing-high-performers)
-      - [Managing growth](#managing-growth)
+    - [1.8.1. A note on one-to-one](#181-a-note-on-one-to-one)
+      - [1.8.1.1. Managing low performer](#1811-managing-low-performer)
+      - [1.8.1.2. Managing high performers](#1812-managing-high-performers)
+      - [1.8.1.3. Managing growth](#1813-managing-growth)
   - [1.9. Q9. Describe a time when you had to gather information from multiple sources. How did you determine which information was most relevant?](#19-q9-describe-a-time-when-you-had-to-gather-information-from-multiple-sources-how-did-you-determine-which-information-was-most-relevant)
   - [1.10. Q10. Tell me about a time when you had to adhere to a policy you didn’t agree with. How did you handle the situation?](#110-q10-tell-me-about-a-time-when-you-had-to-adhere-to-a-policy-you-didnt-agree-with-how-did-you-handle-the-situation)
   - [1.11. Q11. Tell me about a time when you had to deal with major external blockers or impediments that affected your project’s delivery. How did you overcome them?](#111-q11-tell-me-about-a-time-when-you-had-to-deal-with-major-external-blockers-or-impediments-that-affected-your-projects-delivery-how-did-you-overcome-them)
-  - [Q. How do you handle employee retentions](#q-how-do-you-handle-employee-retentions)
-  - [Q. How do you build a DNI team (diversity and Inclusive)](#q-how-do-you-build-a-dni-team-diversity-and-inclusive)
-  - [Q. How to steward a team during a difficult phase](#q-how-to-steward-a-team-during-a-difficult-phase)
+  - [1.12. Q. How do you handle employee retentions](#112-q-how-do-you-handle-employee-retentions)
+  - [1.13. Q. How do you build a DNI team (diversity and Inclusive)](#113-q-how-do-you-build-a-dni-team-diversity-and-inclusive)
+  - [1.14. Q. How to steward a team during a difficult phase](#114-q-how-to-steward-a-team-during-a-difficult-phase)
+  - [1.15. Q. Performance reviews](#115-q-performance-reviews)
+  - [Q. Managing remote teams](#q-managing-remote-teams)
+    - [A note on managing managers and role of SEM(or EM2)](#a-note-on-managing-managers-and-role-of-semor-em2)
+      - [Helping an EM1 to grow](#helping-an-em1-to-grow)
+      - [Supporting an under performing team](#supporting-an-under-performing-team)
+      - [Organizational restructuring](#organizational-restructuring)
+        - [Causes](#causes)
+        - [Challenges](#challenges)
 
 ---
 ---
 
-## 1.1. Q1: Tell me about a time when you had to manage a team to meet tight deadlines across multiple complex projects while maintaining the quality of deliverables.
+## 1.2. Q1: Tell me about a time when you had to manage a team to meet tight deadlines across multiple complex projects while maintaining the quality of deliverables.
 
 **Situation:** At [Previous Company], I was responsible for delivering two complex products simultaneously, each with tight 3-month deadlines. The challenge was to ensure that both projects met high-quality standards without extending the timelines.
 
@@ -49,11 +53,11 @@
 
 **Reflection:** This experience reinforced the importance of structured planning, transparent communication, and maintaining team morale to meet tight deadlines without sacrificing quality.
 
-*[Back](#questions)*
+*[Back](#1-questions)*
 
 ---
 
-## 1.2. Q2: Describe a situation where you had to manage conflict within your team, particularly when dealing with a technically strong but behaviorally difficult engineer who negatively impacts team morale.
+## 1.3. Q2: Describe a situation where you had to manage conflict within your team, particularly when dealing with a technically strong but behaviorally difficult engineer who negatively impacts team morale.
 
 **Situation:** While managing a development team at [Previous Company], one of my strongest engineers exhibited behavior that was causing tension and reducing team morale, despite his technical excellence.
 
@@ -75,11 +79,11 @@
 
 **Reflection:** This situation taught me the value of addressing conflicts with empathy and transparency, turning potential issues into opportunities for growth while maintaining team cohesion.
 
-*[Back](#questions)*
+*[Back](#1-questions)*
 
 ---
 
-### A note on conflict management
+### 1.3.1. A note on conflict management
 
 - detect conflict (use 1o1, team retro and productivity measurements)
   - ownership boundary
@@ -98,7 +102,7 @@
 
 ---
 
-## 1.3. Q3: How do you approach setting SMART goals for your team, and how do you ensure these goals are tracked and achieved?
+## 1.4. Q3: How do you approach setting SMART goals for your team, and how do you ensure these goals are tracked and achieved?
 
 **Situation:** During the annual planning cycle at [Previous Company], I was tasked with setting objectives for my engineering squads based on the Annual Business Requirements (ABR).
 
@@ -120,11 +124,11 @@
 
 **Reflection:** Setting SMART goals and maintaining clear, measurable tracking systems was critical in ensuring the team's success, aligning both business and individual objectives effectively.
 
-*[Back](#questions)*
+*[Back](#1-questions)*
 
 ---
 
-## 1.4. Q4: Imagine you’ve received a 10% lower budget than anticipated for appraisals. How would you keep your team members satisfied while distributing the budget?
+## 1.5. Q4: Imagine you’ve received a 10% lower budget than anticipated for appraisals. How would you keep your team members satisfied while distributing the budget?
 
 **Situation:** During the annual appraisal process at [Previous Company], I learned that the budget for salary increases was 10% lower than expected, which posed a challenge for recognizing my team's efforts adequately.
 
@@ -146,11 +150,11 @@
 
 **Reflection:** This experience highlighted the importance of transparency and creativity in managing budget constraints while maintaining team satisfaction and motivation.
 
-*[Back](#questions)*
+*[Back](#1-questions)*
 
 ---
 
-## 1.5. Q5: How do you manage and prioritize multiple initiatives in your portfolio, ensuring timely delivery without compromising on quality?
+## 1.6. Q5: How do you manage and prioritize multiple initiatives in your portfolio, ensuring timely delivery without compromising on quality?
 
 **Situation:** At [Previous Company], I was managing a portfolio of multiple initiatives, each with competing deadlines and varying levels of complexity.
 
@@ -172,7 +176,7 @@
 
 **Reflection:** A structured, iterative approach combined with careful prioritization and risk management was key to successfully managing multiple initiatives without compromising on quality.
 
-*[Back](#questions)*
+*[Back](#1-questions)*
 
 ---
 
@@ -200,7 +204,7 @@
 
 **Reflection:** I learned the importance of effective risk management in complex projects. By conducting thorough risk assessments, developing mitigation strategies, and maintaining open communication with stakeholders, I was able to anticipate and address potential challenges, ensuring the project's success.
 
-*[Back](#questions)*
+*[Back](#1-questions)*
 
 ---
 
@@ -226,12 +230,10 @@
 
 **Reflection:** I learned the importance of delivering feedback in a constructive and supportive manner. By focusing on the employee's strengths and providing clear guidance, I was able to foster a positive and productive relationship, even in a difficult situation.
 
-*[Back](#questions)*
----
 
-### A note on one-to-one
+### 1.8.1. A note on one-to-one
 
-#### Managing low performer
+#### 1.8.1.1. Managing low performer
 
 - low performers could be cause of:
   - not a good fit/ bad hiring
@@ -243,7 +245,7 @@
 - reassess
 - act (in case of PIP engage with HR partner and leadership)
 
-#### Managing high performers
+#### 1.8.1.2. Managing high performers
 
 - identify high performers
 - identify risks of 
@@ -254,7 +256,7 @@
 - help them handling failure
 - have growth plan/strategy and mentoring
 
-#### Managing growth
+#### 1.8.1.3. Managing growth
 
 - promotions are lagging indicator and not leading indicator
 - identify gaps in one's current profile and desired profile
@@ -263,6 +265,8 @@
 - monitor progress
 - after sustained growth plan success, prime them for promotion
 - find promotion sponsors
+
+*[Back](#1-questions)*
 
 ---
 ## 1.9. Q9. Describe a time when you had to gather information from multiple sources. How did you determine which information was most relevant?
@@ -287,7 +291,7 @@
 
 **Reflection:** I learned the importance of gathering information from multiple sources and evaluating its relevance to identify the root cause of complex issues. By considering factors such as reliability, consistency, and impact, I was able to make informed decisions and develop effective solutions.
 
-*[Back](#questions)*
+*[Back](#1-questions)*
 
 ---
 
@@ -318,7 +322,7 @@
 
 **Reflection:** I learned the importance of advocating for my team's well-being, even when faced with policies that I disagree with. By understanding the broader context and proposing alternative solutions, I was able to minimize the negative impact of the policy and maintain a positive work environment.
 
-*[Back](#questions)*
+*[Back](#1-questions)*
 
 ---
 
@@ -341,11 +345,11 @@
 
 **Reflection:** I learned the importance of anticipating and addressing external factors that could impact a project's delivery. By maintaining open communication, developing contingency plans, and fostering a culture of problem-solving, I was able to overcome significant challenges and ensure the project's success.
 
-*[Back](#questions)*
+*[Back](#1-questions)*
 
 ---
 
-## Q. How do you handle employee retentions
+## 1.12. Q. How do you handle employee retentions
 
 There are several ways to employ in order to retain an employee: 
 
@@ -358,9 +362,11 @@ There are several ways to employ in order to retain an employee:
 - Try to provide work-life balance
 - public appreciation
 
+*[Back](#1-questions)*
+
 ---
 
-## Q. How do you build a DNI team (diversity and Inclusive)
+## 1.13. Q. How do you build a DNI team (diversity and Inclusive)
 
 Diverse teams will have more creative and innovative ideas to solve problems. It's statistically proven that teams with diverse backgrounds have a lower attrition rate. Teams are healthier and happier because of the presence of different cultures. This makes the team environment more open. Focusing on hiring from all backgrounds leads to a much larger pool for hiring, and companies will have more people to choose from.
 
@@ -372,9 +378,11 @@ To build a DNI team, do the following:
 - Once hired, ensure to keep the work environment safe and respectful for everyone
 - Unbiased approach for growth, career and benefit plan for URM group.
 
+*[Back](#1-questions)*
+
 ---
 
-## Q. How to steward a team during a difficult phase
+## 1.14. Q. How to steward a team during a difficult phase
 
 - Transparency (team meeting)
 - Empathy (1o1)
@@ -382,3 +390,92 @@ To build a DNI team, do the following:
 - re-prioritization
 - lower goals/ expectations
 - anonymous survey
+
+*[Back](#1-questions)*
+
+---
+
+## 1.15. Q. Performance reviews
+
+steps involves:
+
+- SMART goal setting
+- mutual identification of peers for review (2-3)
+- peer feedback
+- write performance review packets with objectives and evidences for each
+- calibration of packets as per org principles
+- discussion for organization wide refitting of performance as per forced curve fitting
+- promotion discussion (optional)
+- regular performance feedback to reports (cadence: quarterly)
+- deliver review with a write-up on:
+  - feedback
+  - rating
+  - growth plan
+  - individual's accomplishments
+
+*[Back](#1-questions)*
+
+---
+
+## Q. Managing remote teams
+
+managing remote team is difficult because:
+
+1. formal communication only
+2. separate time zones
+3. lack of connection
+4. lack of involvement
+5. reduced effort/impact visibility
+
+to manage a distributed team, I use:
+
+- overlapping time of at-least 4 hours
+- some online fun team activities
+- some time for non-business conversation
+- understanding their concerns with empathy
+- recognizing their work
+- including them on important decisions and changes
+
+*[Back](#1-questions)*
+
+---
+
+### A note on managing managers and role of SEM(or EM2)
+
+- Due to having a much broader scope and more visibility to various parts of the organization, senior EMs are in a better position to ensure that teams have the right privatizations. 
+- They generally also don't have emotional attachments toward individual projects and can make unbiased decisions more easily than EM1s
+- They empower the managers they support and trust them to make the right decisions for their teams and the projects they have been assigned, only guiding them in necessary situations.
+- They support multiple teams and should be able to evaluate the performance of teams and individuals.
+- They need to know when to transition an IC to a manager.
+
+#### Helping an EM1 to grow
+
+1. You may help EM1s in people support and project management. While coaching them, it is preferable to give them ideas instead of dictating the exact process.
+2. For senior EM1s who have potential, you must gradually grow them to senior EMs. You can help them to grow their teams and attain the skills required for senior EMs.
+3. You may have to help the EM1s when they lack bandwidth.
+4. You can also help them grow by finding leadership training for them, which will help them develop and polish their skills.
+
+#### Supporting an under performing team
+
+- The most important step to handling an under performing team is finding the root cause of the performance issues.
+- Identify the strategy and plan for actions with your respective EM1. This action is significant because it portrays a senior EM's decision-making skills.
+- The team will need to take action to resolve the issue
+
+#### Organizational restructuring
+
+##### Causes
+
+- Organic growth
+- Change in priorities from senior leadership
+- End of some product
+
+##### Challenges
+
+- ICs change of team or manager, with IC feeling drop in trust
+- Product support and business continuity
+- **Stakeholder engagements** : onboard stakeholders before announcement 
+- **Rumours and panics** : keep reorg decisions confidential for as long as possible. Changes should only be announced when every stakeholder is on board and should subsequently be executed without delays
+
+*[Back](#1-questions)*
+
+---
