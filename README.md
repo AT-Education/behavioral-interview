@@ -27,6 +27,10 @@
       - [1.16.0.3. Organizational restructuring](#11603-organizational-restructuring)
         - [1.16.0.3.1. Causes](#116031-causes)
         - [1.16.0.3.2. Challenges](#116032-challenges)
+    - [1.16.1. Q. What are the things as an EM you could have handled better?](#1161-q-what-are-the-things-as-an-em-you-could-have-handled-better)
+    - [1.16.2. Q. How do you do costing and budgeting for your team?](#1162-q-how-do-you-do-costing-and-budgeting-for-your-team)
+      - [1.16.2.1. Costing](#11621-costing)
+      - [1.16.2.2. Budgeting](#11622-budgeting)
 
 ---
 ---
@@ -479,3 +483,41 @@ to manage a distributed team, I use:
 *[Back](#1-questions)*
 
 ---
+
+### 1.16.1. Q. What are the things as an EM you could have handled better?
+
+- I could have included the whole team for quarterly roadmap planning
+- Promoting people sometime to stop attrition
+- I could have done a better delegation
+- Some cases I could have done better mentoring
+- I could have done better scoping
+- I could have done better risk management
+- I could have done a bit better with resource allocation and budgeting
+- Better tech debt handling (MosCow model)
+
+*[Back](#1-questions)*
+
+---
+
+### 1.16.2. Q. How do you do costing and budgeting for your team?
+
+Costing and budgeting are two separate but related activities. 
+Costing is where you estimate how much time a project will take to complete. 
+Budgeting is how you will manage available engineering bandwidth for the project.
+
+#### 1.16.2.1. Costing
+
+- The core idea behind costing is breaking down the project into smaller components that will allow you to make a rough estimate.
+- Breaking user stories to high level tech stories/tasks
+- looking for XFN dependencies
+- calculating risk
+- t-shirt sizing based on Size, Complexity,Unknowns, Risk (SCUR)
+- Calculate total squad months
+- Include buffer
+
+#### 1.16.2.2. Budgeting
+
+- identify work-streams
+- ask each TLs work-streams they are interested in
+- ask each individual which work-streams they are interested in
+- you have to choose project owners based on skill match and priority
