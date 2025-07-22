@@ -36,6 +36,13 @@
   - [1.21. Mission Vision and Strategy](#121-mission-vision-and-strategy)
     - [1.21.1. Your role as an EM to build strategy](#1211-your-role-as-an-em-to-build-strategy)
   - [1.22. Q. Give an example of a project that failed despite the effort and passion that went into it](#122-q-give-an-example-of-a-project-that-failed-despite-the-effort-and-passion-that-went-into-it)
+  - [1.23. Q. You’ve recently joined a team where you’ve noticed several flawed engineering practices. However, some senior engineers—who have been part of the company for a long time—are resistant to your proposed changes](#123-q-youve-recently-joined-a-team-where-youve-noticed-several-flawed-engineering-practices-however-some-senior-engineerswho-have-been-part-of-the-company-for-a-long-timeare-resistant-to-your-proposed-changes)
+    - [1.23.1. Guiding Principles](#1231-guiding-principles)
+    - [1.23.2. Specific Actions \& Communication Strategies](#1232-specific-actions--communication-strategies)
+      - [1.23.2.1. Phase 1: Observe, Listen, and Build Bridges (First 30-60 days)\*\*](#12321-phase-1-observe-listen-and-build-bridges-first-30-60-days)
+      - [1.23.2.2. Phase 2: Identify a High-Impact, Low-Contention Pilot Project\*\*](#12322-phase-2-identify-a-high-impact-low-contention-pilot-project)
+      - [1.23.2.3. Phase 3: Socialize the Win and Scale Collaboratively\*\*](#12323-phase-3-socialize-the-win-and-scale-collaboratively)
+    - [1.23.3. Balancing Change with Respecting Culture](#1233-balancing-change-with-respecting-culture)
 
 ---
 ---
@@ -313,9 +320,9 @@
     - I analyzed the information based on its relevance to the project's goals, the reliability of the sources, and its timeliness.
 4.  **Determining Relevance:** 
     - I prioritized information that aligned with the project’s objectives and stakeholder needs, filtering out anything that wasn’t directly applicable.
-        * **Alignment with the Issue:** I focused on information that was directly related to the performance issue and its symptoms.
-        * **Reliability of the Source:** I evaluated the credibility of the sources, considering their expertise, experience, and alignment with the    rganization's goals.
-        * **Consistency with Other Data:** I compared the information gathered from different sources to identify inconsistencies or contradictions. This helped me identify potential biases or errors.
+        - **Alignment with the Issue:** I focused on information that was directly related to the performance issue and its symptoms.
+        - **Reliability of the Source:** I evaluated the credibility of the sources, considering their expertise, experience, and alignment with the    rganization's goals.
+        - **Consistency with Other Data:** I compared the information gathered from different sources to identify inconsistencies or contradictions. This helped me identify potential biases or errors.
 **Result:** By carefully gathering information from multiple sources and evaluating its relevance, I was able to identify the root cause of the performance issue and develop a solution. This process helped to minimize downtime and ensure the system's continued operation.
 
 **Reflection:** I learned the importance of gathering information from multiple sources and evaluating its relevance to identify the root cause of complex issues. By considering factors such as reliability, consistency, and impact, I was able to make informed decisions and develop effective solutions.
@@ -364,9 +371,9 @@
 **Action:** To address the external blockers, I implemented the following strategies:
 
 1. **Risk Management:** I conducted a thorough risk assessment to identify potential external factors that could impact the project's delivery. This allowed me to anticipate challenges and develop contingency plans. I implemented several mitigation strategies to minimize the impact of the delay, such as:
-   * **Prioritizing Critical Tasks:** I focused the team's efforts on critical tasks that could be completed without the missing hardware.
-   * **Exploring Alternatives:** I investigated potential alternatives or workarounds that could be implemented while waiting for the hardware.
-   * **Negotiating with the Supplier:** I engaged in negotiations with the supplier to expedite the delivery of the components and understand the reasons for the delay.
+   - **Prioritizing Critical Tasks:** I focused the team's efforts on critical tasks that could be completed without the missing hardware.
+   - **Exploring Alternatives:** I investigated potential alternatives or workarounds that could be implemented while waiting for the hardware.
+   - **Negotiating with the Supplier:** I engaged in negotiations with the supplier to expedite the delivery of the components and understand the reasons for the delay.
 2. **Effective stakeholder management:** I maintained open and transparent communication with the third-party vendor, expressing our concerns and seeking solutions. We collaborated closely to identify the root cause of the issues and develop a plan to address them. I also maintained open and frequent communication with other stakeholders and informed them of the challenges and the mitigation strategies in place. This helped to maintain their support and ensure that the project remained aligned with business objectives.
 3. **Proactive Problem-Solving:** I encouraged my team to be proactive in identifying and addressing potential issues. By fostering a culture of problem-solving, we were able to find creative solutions and minimize the impact of external blockers.
 
@@ -601,3 +608,58 @@ example of supply chain management, and how purchase order processing failed for
 *[Back](#1-questions)*
 
 ---
+
+## 1.23. Q. You’ve recently joined a team where you’ve noticed several flawed engineering practices. However, some senior engineers—who have been part of the company for a long time—are resistant to your proposed changes
+
+
+That’s an excellent question, and it touches on a challenge that is very common in engineering organizations, especially in successful, growing companies. It's a situation that requires a blend of technical acumen, strategic thinking, and a high degree of emotional intelligence. My approach would be methodical and centered on collaboration rather than confrontation.
+
+Here’s how I would break it down into principles, strategies, and actions.
+
+### 1.23.1. Guiding Principles
+
+First, I would ground my approach in a few core leadership principles:
+
+1.  **Seek First to Understand, Then to Be Understood:** My initial priority isn't to impose my ideas. It's to understand the "why." Why are things done this way? What are the historical contexts, the past failures, the business constraints that led to these practices? The senior engineers hold this institutional knowledge, and dismissing it is both disrespectful and foolish.
+2.  **Lead with Empathy:** These senior engineers have likely been instrumental to the company's success. Their resistance isn't malicious; it often comes from a place of ownership, a fear of breaking what works, or skepticism from seeing past "silver bullet" solutions fail. I need to acknowledge their contributions and validate their concerns.
+3.  **Change Through Evolution, Not Revolution:** A "rip and replace" approach to practices is disruptive and creates anxiety. My goal would be to introduce iterative, incremental improvements that demonstrate value quickly, rather than proposing a massive, top-down overhaul.
+4.  **Data Over Opinion:** My opinion, as the new person, holds less weight than the lived experience of the tenured engineers. Therefore, I must ground my proposals in objective data, not just a subjective sense of "best practices."
+
+### 1.23.2. Specific Actions & Communication Strategies
+
+With those principles in mind, here is my phased plan of action:
+
+#### 1.23.2.1. Phase 1: Observe, Listen, and Build Bridges (First 30-60 days)**
+
+- **Action:** I would schedule one-on-one meetings with every member of the team, especially the senior engineers.
+- **Communication Strategy:** My agenda wouldn't be "Here's what I think is wrong." It would be, "Help me understand your world." I’d ask open-ended questions like:
+  - "What do you think is working really well on this team?"
+  - "If you had a magic wand, what is the single biggest friction point you would remove from your daily work?"
+  - "Can you walk me through the history of our CI/CD pipeline? What were the big challenges we solved to get here?"
+    This builds rapport and gives me invaluable context. I’m gathering allies and information, not ammunition.
+
+#### 1.23.2.2. Phase 2: Identify a High-Impact, Low-Contention Pilot Project**
+
+- **Action:** From my conversations and observations, I would identify a single, painful problem that everyone universally agrees is a problem. It might not be the *biggest* architectural flaw, but something more tangible. For example, a flaky end-to-end test suite that constantly blocks deployments, or a painfully slow build process.
+- **Communication Strategy:** I would frame the solution as an experiment. I'd approach the most respected (and perhaps most resistant) senior engineer and say something like:
+    > "I noticed our build times are hovering around 30 minutes, which I know frustrates everyone. I have an idea for implementing build caching that my research suggests could cut that in half. Would you be open to pairing with me for a couple of days to build a small proof-of-concept on a separate branch? I'd value your expertise to see if this is viable and what pitfalls I'm not seeing."
+
+    This approach does several things: it respects their expertise, makes them a partner in the solution, and lowers the stakes by framing it as a small, reversible experiment.
+
+#### 1.23.2.3. Phase 3: Socialize the Win and Scale Collaboratively**
+
+- **Action:** Once the pilot project is successful, I would quantify the results. For example: "We reduced average build time from 30 minutes to 12 minutes, saving the team an estimated 10 hours per week."
+- **Communication Strategy:** I would present these findings in a team meeting or a brown-bag session. Crucially, I would co-present with the senior engineer who helped me. I would give them public credit for their contribution. This transforms them from a resistor into a champion of the new practice. The message becomes "Look at what *we* accomplished," not "Look at what *I* fixed."
+- **Action:** From there, we can build a working group, including the senior members, to create a roadmap for rolling out this improvement more broadly or tackling the next biggest pain point. We'd create documentation, templates, and guardrails to make the "right way" the "easy way."
+
+### 1.23.3. Balancing Change with Respecting Culture
+
+This is the most nuanced part. To me, "respecting culture" doesn't mean leaving flawed practices untouched. It means understanding that the culture—the team's values and norms—produced those practices for a reason.
+
+- **Connect to Shared Values:** I would frame the proposed changes in terms of the team's existing values. For instance, if the team values product stability, I'd say, "I believe introducing a more robust automated testing strategy will help us better uphold our commitment to shipping reliable software for our users." This connects the *new practice* to an *existing value*.
+
+- **Acknowledge the Trade-offs:** The old ways were often the result of conscious trade-offs, like prioritizing speed-to-market over technical debt. I would acknowledge this openly. "It makes sense that we accumulated some tech debt to hit that critical launch date last year. Now that we have some breathing room, let's talk about how we can strategically pay some of that down to make our future work faster and more predictable."
+
+In summary, my approach is to be a catalyst for change, not a wrecking ball. It’s about building consensus, demonstrating value with data, and empowering the team's existing leaders to help guide the evolution. By making them partners in the process, I can improve engineering practices not just without alienating them, but by strengthening their sense of ownership and making the entire team more effective.
+
+*[Back](#1-questions)*
