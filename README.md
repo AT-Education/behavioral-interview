@@ -3,7 +3,7 @@
 - [1. Questions](#1-questions)
   - [1.1. Q1: Tell me about a time when you had to manage a team to meet tight deadlines across multiple complex projects while maintaining the quality of deliverables.](#11-q1-tell-me-about-a-time-when-you-had-to-manage-a-team-to-meet-tight-deadlines-across-multiple-complex-projects-while-maintaining-the-quality-of-deliverables)
   - [1.2. Q. you are joining a new organization as an engineering manager. How will you gel with an already existing team?](#12-q-you-are-joining-a-new-organization-as-an-engineering-manager-how-will-you-gel-with-an-already-existing-team)
-  - [1.3. Q2: Describe a situation where you had to manage conflict within your team, particularly when dealing with a technically strong but behaviorally difficult engineer who negatively impacts team morale.](#13-q2-describe-a-situation-where-you-had-to-manage-conflict-within-your-team-particularly-when-dealing-with-a-technically-strong-but-behaviorally-difficult-engineer-who-negatively-impacts-team-morale)
+  - [1.3. Q2: Describe a situation where you had to manage conflict within your team, particularly when dealing with a technically strong but behaviorally difficult engineer who negatively impacts team morale](#13-q2-describe-a-situation-where-you-had-to-manage-conflict-within-your-team-particularly-when-dealing-with-a-technically-strong-but-behaviorally-difficult-engineer-who-negatively-impacts-team-morale)
     - [1.3.1. A note on conflict management](#131-a-note-on-conflict-management)
   - [1.4. Q3: How do you approach setting SMART goals for your team, and how do you ensure these goals are tracked and achieved?](#14-q3-how-do-you-approach-setting-smart-goals-for-your-team-and-how-do-you-ensure-these-goals-are-tracked-and-achieved)
   - [1.5. Q4: Imagine you’ve received a 10% lower budget than anticipated for appraisals. How would you keep your team members satisfied while distributing the budget?](#15-q4-imagine-youve-received-a-10-lower-budget-than-anticipated-for-appraisals-how-would-you-keep-your-team-members-satisfied-while-distributing-the-budget)
@@ -17,32 +17,31 @@
   - [1.9. Q9. Describe a time when you had to gather information from multiple sources. How did you determine which information was most relevant?](#19-q9-describe-a-time-when-you-had-to-gather-information-from-multiple-sources-how-did-you-determine-which-information-was-most-relevant)
   - [1.10. Q10. Tell me about a time when you had to adhere to a policy you didn’t agree with. How did you handle the situation?](#110-q10-tell-me-about-a-time-when-you-had-to-adhere-to-a-policy-you-didnt-agree-with-how-did-you-handle-the-situation)
   - [1.11. Q11. Tell me about a time when you had to deal with major external blockers or impediments that affected your project’s delivery. How did you overcome them?](#111-q11-tell-me-about-a-time-when-you-had-to-deal-with-major-external-blockers-or-impediments-that-affected-your-projects-delivery-how-did-you-overcome-them)
-  - [1.12. Q. How will you](#112-q-how-will-you)
-  - [1.13. Q. How do you handle employee retentions](#113-q-how-do-you-handle-employee-retentions)
-  - [1.14. Q. How do you build a DNI team (diversity and Inclusive)](#114-q-how-do-you-build-a-dni-team-diversity-and-inclusive)
-  - [1.15. Q. How to steward a team during a difficult phase](#115-q-how-to-steward-a-team-during-a-difficult-phase)
-  - [1.16. Q. Performance reviews](#116-q-performance-reviews)
-  - [1.17. Q. Managing remote teams](#117-q-managing-remote-teams)
-  - [1.18. A note on managing managers and role of SEM(or EM2)](#118-a-note-on-managing-managers-and-role-of-semor-em2)
-      - [1.18.0.1. Helping an EM1 to grow](#11801-helping-an-em1-to-grow)
-      - [1.18.0.2. Supporting an under performing team](#11802-supporting-an-under-performing-team)
-      - [1.18.0.3. Organizational restructuring](#11803-organizational-restructuring)
-        - [1.18.0.3.1. Causes](#118031-causes)
-        - [1.18.0.3.2. Challenges](#118032-challenges)
-  - [1.19. Q. What are the things as an EM you could have handled better?](#119-q-what-are-the-things-as-an-em-you-could-have-handled-better)
-  - [1.20. Q. How do you do costing and budgeting for your team?](#120-q-how-do-you-do-costing-and-budgeting-for-your-team)
-    - [1.20.1. Costing](#1201-costing)
-    - [1.20.2. Budgeting](#1202-budgeting)
-  - [1.21. Mission Vision and Strategy](#121-mission-vision-and-strategy)
-    - [1.21.1. Your role as an EM to build strategy](#1211-your-role-as-an-em-to-build-strategy)
-  - [1.22. Q. Give an example of a project that failed despite the effort and passion that went into it](#122-q-give-an-example-of-a-project-that-failed-despite-the-effort-and-passion-that-went-into-it)
-  - [1.23. Q. You’ve recently joined a team where you’ve noticed several flawed engineering practices. However, some senior engineers—who have been part of the company for a long time—are resistant to your proposed changes](#123-q-youve-recently-joined-a-team-where-youve-noticed-several-flawed-engineering-practices-however-some-senior-engineerswho-have-been-part-of-the-company-for-a-long-timeare-resistant-to-your-proposed-changes)
-    - [1.23.1. Guiding Principles](#1231-guiding-principles)
-    - [1.23.2. Specific Actions \& Communication Strategies](#1232-specific-actions--communication-strategies)
-      - [1.23.2.1. Phase 1: Observe, Listen, and Build Bridges (First 30-60 days)\*\*](#12321-phase-1-observe-listen-and-build-bridges-first-30-60-days)
-      - [1.23.2.2. Phase 2: Identify a High-Impact, Low-Contention Pilot Project\*\*](#12322-phase-2-identify-a-high-impact-low-contention-pilot-project)
-      - [1.23.2.3. Phase 3: Socialize the Win and Scale Collaboratively\*\*](#12323-phase-3-socialize-the-win-and-scale-collaboratively)
-    - [1.23.3. Balancing Change with Respecting Culture](#1233-balancing-change-with-respecting-culture)
+  - [1.12. Q. How do you handle employee retentions](#112-q-how-do-you-handle-employee-retentions)
+  - [1.13. Q. How do you build a DNI team (diversity and Inclusive)](#113-q-how-do-you-build-a-dni-team-diversity-and-inclusive)
+  - [1.14. Q. How to steward a team during a difficult phase](#114-q-how-to-steward-a-team-during-a-difficult-phase)
+  - [1.15. Q. Performance reviews](#115-q-performance-reviews)
+  - [1.16. Q. Managing remote teams](#116-q-managing-remote-teams)
+  - [1.17. A note on managing managers and role of SEM(or EM2)](#117-a-note-on-managing-managers-and-role-of-semor-em2)
+      - [1.17.0.1. Helping an EM1 to grow](#11701-helping-an-em1-to-grow)
+      - [1.17.0.2. Supporting an under performing team](#11702-supporting-an-under-performing-team)
+      - [1.17.0.3. Organizational restructuring](#11703-organizational-restructuring)
+        - [1.17.0.3.1. Causes](#117031-causes)
+        - [1.17.0.3.2. Challenges](#117032-challenges)
+  - [1.18. Q. What are the things as an EM you could have handled better?](#118-q-what-are-the-things-as-an-em-you-could-have-handled-better)
+  - [1.19. Q. How do you do costing and budgeting for your team?](#119-q-how-do-you-do-costing-and-budgeting-for-your-team)
+    - [1.19.1. Costing](#1191-costing)
+    - [1.19.2. Budgeting](#1192-budgeting)
+  - [1.20. Mission Vision and Strategy](#120-mission-vision-and-strategy)
+    - [1.20.1. Your role as an EM to build strategy](#1201-your-role-as-an-em-to-build-strategy)
+  - [1.21. Q. Give an example of a project that failed despite the effort and passion that went into it](#121-q-give-an-example-of-a-project-that-failed-despite-the-effort-and-passion-that-went-into-it)
+  - [1.22. Q. You’ve recently joined a team where you’ve noticed several flawed engineering practices. However, some senior engineers—who have been part of the company for a long time—are resistant to your proposed changes](#122-q-youve-recently-joined-a-team-where-youve-noticed-several-flawed-engineering-practices-however-some-senior-engineerswho-have-been-part-of-the-company-for-a-long-timeare-resistant-to-your-proposed-changes)
+    - [1.22.1. Guiding Principles](#1221-guiding-principles)
+    - [1.22.2. Specific Actions \& Communication Strategies](#1222-specific-actions--communication-strategies)
+      - [1.22.2.1. Phase 1: Observe, Listen, and Build Bridges (First 30-60 days)\*\*](#12221-phase-1-observe-listen-and-build-bridges-first-30-60-days)
+      - [1.22.2.2. Phase 2: Identify a High-Impact, Low-Contention Pilot Project\*\*](#12222-phase-2-identify-a-high-impact-low-contention-pilot-project)
+      - [1.22.2.3. Phase 3: Socialize the Win and Scale Collaboratively\*\*](#12223-phase-3-socialize-the-win-and-scale-collaboratively)
+    - [1.22.3. Balancing Change with Respecting Culture](#1223-balancing-change-with-respecting-culture)
 
 ---
 ---
@@ -54,6 +53,7 @@
 **Task:** My task was to manage both teams effectively to ensure timely delivery without sacrificing the quality of the deliverables.
 
 **Action:**  
+
 1. **Implemented Scrum Framework:**  
    - Broke down both projects into monthly milestones and weekly sprints, allowing the teams to track progress efficiently.  
 2. **Sprint Demos and Adjustments:**  
@@ -93,13 +93,14 @@
 
 ---
 
-## 1.3. Q2: Describe a situation where you had to manage conflict within your team, particularly when dealing with a technically strong but behaviorally difficult engineer who negatively impacts team morale.
+## 1.3. Q2: Describe a situation where you had to manage conflict within your team, particularly when dealing with a technically strong but behaviorally difficult engineer who negatively impacts team morale
 
 **Situation:** While managing a development team at [Previous Company], one of my strongest engineers exhibited behavior that was causing tension and reducing team morale, despite his technical excellence.
 
 **Task:** My task was to address the behavior in a way that preserved team cohesion while retaining the engineer's valuable contributions.
 
 **Action:**  
+
 1. **Collected Feedback:**  
    - Gathered input from team members in one-on-one meetings to understand the full extent of the conflict.  
 2. **1:1 Discussion with the Engineer:**  
@@ -145,6 +146,7 @@
 **Task:** My goal was to set clear, measurable, and achievable goals for the team that aligned with business priorities and to track progress effectively.
 
 **Action:**  
+
 1. **Analyzed ABR:**  
    - Reviewed the ABR to identify key milestones and challenges for the year.  
 2. **SWOT Analysis:**  
@@ -171,6 +173,7 @@
 **Task:** My task was to distribute the limited budget fairly while maintaining team morale and satisfaction.
 
 **Action:**  
+
 1. **Performance Analysis:**  
    - Conducted a thorough performance analysis to identify team members who had exceeded expectations and deserved higher pay increases.  
 2. **Alternative Recognition:**  
@@ -197,8 +200,9 @@
 **Task:** My task was to ensure that all initiatives were delivered on time while maintaining high quality across the board.
 
 **Action:**  
+
 1. **Backlog Prioritization:**  
-   - Conducted a backlog prioritization session using the "cost of delay" technique with stakeholders to stack-rank tasks based on urgency and importance.  
+   - Conducted a backlog prioritization session using the ["cost of delay by duration(CD3)" technique](CD3.md) with stakeholders to stack-rank tasks based on urgency and importance.  
 2. **Phasing and Sizing:**  
    - Broke down stories into T-shirt sizes and set clear delivery milestones based on business value.  
 3. **Resource Allocation:**  
@@ -206,7 +210,7 @@
 4. **Sprint Planning:**  
    - Conducted detailed sprint planning sessions, where we broke down tasks into smaller, manageable components aligned with milestones.  
 5. **Risk Management and Review:**  
-   - Monitored risks weekly, using a risk burndown chart to track progress and address issues proactively.  
+   - Monitored risks weekly, using a risk burn-down chart to track progress and address issues proactively.  
 
 **Result:** All initiatives were delivered on time, with high quality maintained across projects, and team productivity remained strong throughout.
 
@@ -223,6 +227,7 @@
 **Task:** My goal was to identify, assess, and mitigate these risks to ensure the project's timely delivery and quality.
 
 **Action:**
+
 1. **Risk Identification:** 
     -   During backlog refinement, I assess the potential impacts (what could go wrong) and risks (why it could happen) alongside DoD and DoR criteria. I involve stakeholders and subject matter experts to ensure comprehensive risk identification.
 2. **Risk Assessment:** 
@@ -251,6 +256,7 @@
 **Task:** My goal was to deliver the feedback in a constructive and supportive manner, while also providing clear guidance for improvement.
 
 **Action:** 
+
 1. **Private Conversation:** 
     - I initiate a private one-on-one conversation with the employee, starting with my vision of the future and how their role contributes to that vision.
 2. **Feed-Forward Technique:** 
@@ -312,6 +318,7 @@
 **Task:** My goal was to gather information from various sources to identify the root cause of the performance issue and develop a solution.
 
 **Action:** 
+
 1. **Identifying Key Stakeholders:** 
     - I identified key stakeholders, including team members, subject matter experts, and vendors, to gather diverse perspectives.
 2. **Interviews and Surveys:** 
@@ -385,12 +392,7 @@
 
 ---
 
-## 1.12. Q. How will you 
-
-*[Back](#1-questions)*
-
----
-## 1.13. Q. How do you handle employee retentions
+## 1.12. Q. How do you handle employee retentions
 
 There are several ways to employ in order to retain an employee: 
 
@@ -407,7 +409,7 @@ There are several ways to employ in order to retain an employee:
 
 ---
 
-## 1.14. Q. How do you build a DNI team (diversity and Inclusive)
+## 1.13. Q. How do you build a DNI team (diversity and Inclusive)
 
 Diverse teams will have more creative and innovative ideas to solve problems. It's statistically proven that teams with diverse backgrounds have a lower attrition rate. Teams are healthier and happier because of the presence of different cultures. This makes the team environment more open. Focusing on hiring from all backgrounds leads to a much larger pool for hiring, and companies will have more people to choose from.
 
@@ -423,7 +425,7 @@ To build a DNI team, do the following:
 
 ---
 
-## 1.15. Q. How to steward a team during a difficult phase
+## 1.14. Q. How to steward a team during a difficult phase
 
 - Transparency (team meeting)
 - Empathy (1o1)
@@ -436,7 +438,7 @@ To build a DNI team, do the following:
 
 ---
 
-## 1.16. Q. Performance reviews
+## 1.15. Q. Performance reviews
 
 steps involves:
 
@@ -458,7 +460,7 @@ steps involves:
 
 ---
 
-## 1.17. Q. Managing remote teams
+## 1.16. Q. Managing remote teams
 
 managing remote team is difficult because:
 
@@ -481,7 +483,7 @@ to manage a distributed team, I use:
 
 ---
 
-## 1.18. A note on managing managers and role of SEM(or EM2)
+## 1.17. A note on managing managers and role of SEM(or EM2)
 
 - Due to having a much broader scope and more visibility to various parts of the organization, senior EMs are in a better position to ensure that teams have the right privatizations. 
 - They generally also don't have emotional attachments toward individual projects and can make unbiased decisions more easily than EM1s
@@ -489,28 +491,28 @@ to manage a distributed team, I use:
 - They support multiple teams and should be able to evaluate the performance of teams and individuals.
 - They need to know when to transition an IC to a manager.
 
-#### 1.18.0.1. Helping an EM1 to grow
+#### 1.17.0.1. Helping an EM1 to grow
 
 1. You may help EM1s in people support and project management. While coaching them, it is preferable to give them ideas instead of dictating the exact process.
 2. For senior EM1s who have potential, you must gradually grow them to senior EMs. You can help them to grow their teams and attain the skills required for senior EMs.
 3. You may have to help the EM1s when they lack bandwidth.
 4. You can also help them grow by finding leadership training for them, which will help them develop and polish their skills.
 
-#### 1.18.0.2. Supporting an under performing team
+#### 1.17.0.2. Supporting an under performing team
 
 - The most important step to handling an under performing team is finding the root cause of the performance issues.
 - Identify the strategy and plan for actions with your respective EM1. This action is significant because it portrays a senior EM's decision-making skills.
 - The team will need to take action to resolve the issue
 
-#### 1.18.0.3. Organizational restructuring
+#### 1.17.0.3. Organizational restructuring
 
-##### 1.18.0.3.1. Causes
+##### 1.17.0.3.1. Causes
 
 - Organic growth
 - Change in priorities from senior leadership
 - End of some product
 
-##### 1.18.0.3.2. Challenges
+##### 1.17.0.3.2. Challenges
 
 - ICs change of team or manager, with IC feeling drop in trust
 - Product support and business continuity
@@ -521,7 +523,7 @@ to manage a distributed team, I use:
 
 ---
 
-## 1.19. Q. What are the things as an EM you could have handled better?
+## 1.18. Q. What are the things as an EM you could have handled better?
 
 - I could have included the whole team for quarterly roadmap planning
 - Promoting people sometime to stop attrition
@@ -536,13 +538,13 @@ to manage a distributed team, I use:
 
 ---
 
-## 1.20. Q. How do you do costing and budgeting for your team?
+## 1.19. Q. How do you do costing and budgeting for your team?
 
 Costing and budgeting are two separate but related activities. 
 Costing is where you estimate how much time a project will take to complete. 
 Budgeting is how you will manage available engineering bandwidth for the project.
 
-### 1.20.1. Costing
+### 1.19.1. Costing
 
 - The core idea behind costing is breaking down the project into smaller components that will allow you to make a rough estimate.
 - Breaking user stories to high level tech stories/tasks
@@ -552,7 +554,7 @@ Budgeting is how you will manage available engineering bandwidth for the project
 - Calculate total squad months
 - Include buffer
 
-### 1.20.2. Budgeting
+### 1.19.2. Budgeting
 
 - identify work-streams
 - ask each TLs work-streams they are interested in
@@ -563,13 +565,13 @@ Budgeting is how you will manage available engineering bandwidth for the project
 
 ---
 
-## 1.21. Mission Vision and Strategy
+## 1.20. Mission Vision and Strategy
 
 - **Mission**: purpose of the team. ex: "to provide a unified workflow platform for mortgage team" 
 - **Vision**: What you want to accomplish in next 12-24 months
 - **Strategy**: High level steps taken or direction to achieve the goals of their vision statement
 
-### 1.21.1. Your role as an EM to build strategy
+### 1.20.1. Your role as an EM to build strategy
 
 **Mission Statement**: _"To create a unified, automated workflow platform that empowers banks to streamline their mortgage processes, enhance operational efficiency, and deliver exceptional customer experiences"_
 **Vision statement**: _"To be the industry-leading provider of innovative mortgage workflow solutions, enabling banks to achieve operational excellence, reduce costs, and drive growth"_
@@ -595,7 +597,7 @@ For strategy, get involved in decisions on following, with documented decisions/
 
 ---
 
-## 1.22. Q. Give an example of a project that failed despite the effort and passion that went into it
+## 1.21. Q. Give an example of a project that failed despite the effort and passion that went into it
 
 example of supply chain management, and how purchase order processing failed for large customers.
 
@@ -609,14 +611,14 @@ example of supply chain management, and how purchase order processing failed for
 
 ---
 
-## 1.23. Q. You’ve recently joined a team where you’ve noticed several flawed engineering practices. However, some senior engineers—who have been part of the company for a long time—are resistant to your proposed changes
+## 1.22. Q. You’ve recently joined a team where you’ve noticed several flawed engineering practices. However, some senior engineers—who have been part of the company for a long time—are resistant to your proposed changes
 
 
 That’s an excellent question, and it touches on a challenge that is very common in engineering organizations, especially in successful, growing companies. It's a situation that requires a blend of technical acumen, strategic thinking, and a high degree of emotional intelligence. My approach would be methodical and centered on collaboration rather than confrontation.
 
 Here’s how I would break it down into principles, strategies, and actions.
 
-### 1.23.1. Guiding Principles
+### 1.22.1. Guiding Principles
 
 First, I would ground my approach in a few core leadership principles:
 
@@ -625,11 +627,11 @@ First, I would ground my approach in a few core leadership principles:
 3.  **Change Through Evolution, Not Revolution:** A "rip and replace" approach to practices is disruptive and creates anxiety. My goal would be to introduce iterative, incremental improvements that demonstrate value quickly, rather than proposing a massive, top-down overhaul.
 4.  **Data Over Opinion:** My opinion, as the new person, holds less weight than the lived experience of the tenured engineers. Therefore, I must ground my proposals in objective data, not just a subjective sense of "best practices."
 
-### 1.23.2. Specific Actions & Communication Strategies
+### 1.22.2. Specific Actions & Communication Strategies
 
 With those principles in mind, here is my phased plan of action:
 
-#### 1.23.2.1. Phase 1: Observe, Listen, and Build Bridges (First 30-60 days)**
+#### 1.22.2.1. Phase 1: Observe, Listen, and Build Bridges (First 30-60 days)**
 
 - **Action:** I would schedule one-on-one meetings with every member of the team, especially the senior engineers.
 - **Communication Strategy:** My agenda wouldn't be "Here's what I think is wrong." It would be, "Help me understand your world." I’d ask open-ended questions like:
@@ -638,7 +640,7 @@ With those principles in mind, here is my phased plan of action:
   - "Can you walk me through the history of our CI/CD pipeline? What were the big challenges we solved to get here?"
     This builds rapport and gives me invaluable context. I’m gathering allies and information, not ammunition.
 
-#### 1.23.2.2. Phase 2: Identify a High-Impact, Low-Contention Pilot Project**
+#### 1.22.2.2. Phase 2: Identify a High-Impact, Low-Contention Pilot Project**
 
 - **Action:** From my conversations and observations, I would identify a single, painful problem that everyone universally agrees is a problem. It might not be the *biggest* architectural flaw, but something more tangible. For example, a flaky end-to-end test suite that constantly blocks deployments, or a painfully slow build process.
 - **Communication Strategy:** I would frame the solution as an experiment. I'd approach the most respected (and perhaps most resistant) senior engineer and say something like:
@@ -646,13 +648,13 @@ With those principles in mind, here is my phased plan of action:
 
     This approach does several things: it respects their expertise, makes them a partner in the solution, and lowers the stakes by framing it as a small, reversible experiment.
 
-#### 1.23.2.3. Phase 3: Socialize the Win and Scale Collaboratively**
+#### 1.22.2.3. Phase 3: Socialize the Win and Scale Collaboratively**
 
 - **Action:** Once the pilot project is successful, I would quantify the results. For example: "We reduced average build time from 30 minutes to 12 minutes, saving the team an estimated 10 hours per week."
 - **Communication Strategy:** I would present these findings in a team meeting or a brown-bag session. Crucially, I would co-present with the senior engineer who helped me. I would give them public credit for their contribution. This transforms them from a resistor into a champion of the new practice. The message becomes "Look at what *we* accomplished," not "Look at what *I* fixed."
 - **Action:** From there, we can build a working group, including the senior members, to create a roadmap for rolling out this improvement more broadly or tackling the next biggest pain point. We'd create documentation, templates, and guardrails to make the "right way" the "easy way."
 
-### 1.23.3. Balancing Change with Respecting Culture
+### 1.22.3. Balancing Change with Respecting Culture
 
 This is the most nuanced part. To me, "respecting culture" doesn't mean leaving flawed practices untouched. It means understanding that the culture—the team's values and norms—produced those practices for a reason.
 
