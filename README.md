@@ -1,6 +1,13 @@
-# 1. Questions
+# 1. Behavioral Interview
 
-- [1. Questions](#1-questions)
+Refer below links:
+1. [Gemini](https://g.co/gemini/share/03268aabed51)
+2. [Chatgpt](https://chatgpt.com/share/6888a299-0b7c-800f-870f-d47b793e62b5)
+3. [Chatgpt - In Progress](https://chatgpt.com/share/6888a21e-c408-800f-b546-eb8610bbef2d)
+
+## Table Of Content
+- [1. Behavioral Interview](#1-behavioral-interview)
+  - [Table Of Content](#table-of-content)
   - [1.1. Q1: Tell me about a time when you had to manage a team to meet tight deadlines across multiple complex projects while maintaining the quality of deliverables.](#11-q1-tell-me-about-a-time-when-you-had-to-manage-a-team-to-meet-tight-deadlines-across-multiple-complex-projects-while-maintaining-the-quality-of-deliverables)
   - [1.2. Q. you are joining a new organization as an engineering manager. How will you gel with an already existing team?](#12-q-you-are-joining-a-new-organization-as-an-engineering-manager-how-will-you-gel-with-an-already-existing-team)
   - [1.3. Q2: Describe a situation where you had to manage conflict within your team, particularly when dealing with a technically strong but behaviorally difficult engineer who negatively impacts team morale](#13-q2-describe-a-situation-where-you-had-to-manage-conflict-within-your-team-particularly-when-dealing-with-a-technically-strong-but-behaviorally-difficult-engineer-who-negatively-impacts-team-morale)
@@ -42,6 +49,9 @@
       - [1.22.2.2. Phase 2: Identify a High-Impact, Low-Contention Pilot Project\*\*](#12222-phase-2-identify-a-high-impact-low-contention-pilot-project)
       - [1.22.2.3. Phase 3: Socialize the Win and Scale Collaboratively\*\*](#12223-phase-3-socialize-the-win-and-scale-collaboratively)
     - [1.22.3. Balancing Change with Respecting Culture](#1223-balancing-change-with-respecting-culture)
+  - [1.23. Q.Tell me about a (the last) time when you asked for specific feedback about your work or a project you were in control of?](#123-qtell-me-about-a-the-last-time-when-you-asked-for-specific-feedback-about-your-work-or-a-project-you-were-in-control-of)
+  - [1.24. Q.What self-directed learning activities have you undertaken in the past 6 months?](#124-qwhat-self-directed-learning-activities-have-you-undertaken-in-the-past-6-months)
+  - [1.25. Q.Tell me about a time you sought out a new work experience, where you had no previous knowledge, skills or experience?](#125-qtell-me-about-a-time-you-sought-out-a-new-work-experience-where-you-had-no-previous-knowledge-skills-or-experience)
 
 ---
 ---
@@ -663,5 +673,49 @@ This is the most nuanced part. To me, "respecting culture" doesn't mean leaving 
 - **Acknowledge the Trade-offs:** The old ways were often the result of conscious trade-offs, like prioritizing speed-to-market over technical debt. I would acknowledge this openly. "It makes sense that we accumulated some tech debt to hit that critical launch date last year. Now that we have some breathing room, let's talk about how we can strategically pay some of that down to make our future work faster and more predictable."
 
 In summary, my approach is to be a catalyst for change, not a wrecking ball. It’s about building consensus, demonstrating value with data, and empowering the team's existing leaders to help guide the evolution. By making them partners in the process, I can improve engineering practices not just without alienating them, but by strengthening their sense of ownership and making the entire team more effective.
+
+*[Back](#1-questions)*
+## 1.23. Q.Tell me about a (the last) time when you asked for specific feedback about your work or a project you were in control of?
+
+ Ans:- The last time I specifically asked for feedback was during the final stages of the "Workflow Platform" project six months ago. 
+
+As the Architect cum lead, I was in control of its entire lifecycle, including:
+- moving our core monolithic application to a microservices architecture
+- Identifying and defining new revamped process flow
+- Improving User experience
+
+Given the project's critical nature and its potential impact on customers, I proactively scheduled a dedicated "lessons learned" session with key stakeholders: engineering managers, product owners, and even a few senior individual contributors from affected teams. I didn't just want general impressions; I specifically asked for feedback on:
+- Communication effectiveness from my end.
+- Architectural decisions and any unforeseen complexities.
+- Support provided during their migration phase.
+
+This focused approach helped me gather actionable insights, particularly around improving cross-team dependency management for future large-scale initiatives.
+
+*[Back](#1-questions)*
+
+## 1.24. Q.What self-directed learning activities have you undertaken in the past 6 months?
+
+Ans:- I have undertaken following self-directed learning activities in past 6 months:
+
+Completed Data Engineering fundamentals using Data Bricks from DataBricks Academy
+Prompt Engineering course from Vanderbilt University(Coursera) 
+Agentic AI from IBM(Coursera) 
+ 
+*[Back](#1-questions)*
+
+## 1.25. Q.Tell me about a time you sought out a new work experience, where you had no previous knowledge, skills or experience?
+
+Ans:- When I took on a Solution Architect role in my current organization, a significant pivot where I initially had no direct prior experience or formal training in that specific capacity. 
+
+My background was primarily as a lead developer, deeply involved in technical execution and team leadership, but the architectural design and client-facing solutioning aspects were new territory.
+This was something more strategic than my current role. I saw it as a chance to grow beyond pure coding and management into a more holistic, consultative position.
+I actively sought this challenge. I knew it would demand a steep learning curve in areas like 
+    - enterprise architecture patterns
+    - architectural decisioning as per target architecture
+    - complex system integration strategies
+    - risk management 
+none of which were part of my day-to-day. My approach was to immerse myself in case studies, shadow experienced architects, and proactively engage in every client discovery call and design session I could. 
+While the initial learning phase was intense where I have to put extra shift to cover, my existing technical depth and problem-solving skills proved invaluable in quickly grasping the new domain and translating abstract business needs into concrete technical solutions. 
+It was a calculated risk that significantly broadened my professional scope.
 
 *[Back](#1-questions)*
