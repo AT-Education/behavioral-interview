@@ -220,7 +220,7 @@ Refer below links:
 4. **Sprint Planning:**  
    - Conducted detailed sprint planning sessions, where we broke down tasks into smaller, manageable components aligned with milestones.  
 5. **Risk Management and Review:**  
-   - Monitored risks weekly, using a risk burn-down chart to track progress and address issues proactively.  
+   - Monitored risks weekly, using a <span style="color:green">**risk burn-down chart**_(risk exposure in days in Y-AXIS and time/sprint iteration in X-Axis)_</span> to track progress and address issues proactively.  
 
 **Result:** All initiatives were delivered on time, with high quality maintained across projects, and team productivity remained strong throughout.
 
@@ -696,10 +696,9 @@ This focused approach helped me gather actionable insights, particularly around 
 ## 1.24. Q.What self-directed learning activities have you undertaken in the past 6 months?
 
 Ans:- I have undertaken following self-directed learning activities in past 6 months:
-
-Completed Data Engineering fundamentals using Data Bricks from DataBricks Academy
-Prompt Engineering course from Vanderbilt University(Coursera) 
-Agentic AI from IBM(Coursera) 
+- Completed Data Engineering fundamentals using Data Bricks from DataBricks Academy
+- Prompt Engineering course from Vanderbilt University(Coursera) 
+- Agentic AI from IBM(Coursera) 
  
 *[Back](#1-questions)*
 
